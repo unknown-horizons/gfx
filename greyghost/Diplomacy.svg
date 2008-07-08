@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Diplomacy.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3273">
+      <stop
+         style="stop-color:#816c6c;stop-opacity:1;"
+         offset="0"
+         id="stop3275" />
+      <stop
+         style="stop-color:#816c6c;stop-opacity:0;"
+         offset="1"
+         id="stop3277" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3407">
+      <stop
+         style="stop-color:#9a0300;stop-opacity:1;"
+         offset="0"
+         id="stop3409" />
+      <stop
+         style="stop-color:#9a0300;stop-opacity:0;"
+         offset="1"
+         id="stop3411" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3399">
+      <stop
+         style="stop-color:#d7130e;stop-opacity:1;"
+         offset="0"
+         id="stop3401" />
+      <stop
+         style="stop-color:#d7130e;stop-opacity:0;"
+         offset="1"
+         id="stop3403" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3391">
+      <stop
+         style="stop-color:#9a0300;stop-opacity:1;"
+         offset="0"
+         id="stop3393" />
+      <stop
+         style="stop-color:#9a0300;stop-opacity:0;"
+         offset="1"
+         id="stop3395" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3383">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3385" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3387" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3165">
+      <stop
+         style="stop-color:#7b6500;stop-opacity:1;"
+         offset="0"
+         id="stop3167" />
+      <stop
+         style="stop-color:#d7b40e;stop-opacity:1"
+         offset="1"
+         id="stop3169" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3165"
+       id="linearGradient3171"
+       x1="581.44641"
+       y1="481.19681"
+       x2="-141.61572"
+       y2="481.19681"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9069134,0,0,1.124846,56.727816,-86.254903)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3383"
+       id="linearGradient3389"
+       x1="-164.75391"
+       y1="539.09677"
+       x2="-56.447777"
+       y2="541.16626"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3391"
+       id="linearGradient3397"
+       x1="-133.88764"
+       y1="589.20721"
+       x2="-53.15799"
+       y2="591.09821"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3399"
+       id="linearGradient3405"
+       x1="-230.5475"
+       y1="487.36218"
+       x2="41.674988"
+       y2="487.36218"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3407"
+       id="linearGradient3413"
+       x1="-230.5475"
+       y1="487.36218"
+       x2="81.74437"
+       y2="487.36218"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3383"
+       id="linearGradient3415"
+       gradientUnits="userSpaceOnUse"
+       x1="-164.75391"
+       y1="539.09677"
+       x2="-56.447777"
+       y2="541.16626" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3383"
+       id="linearGradient3417"
+       gradientUnits="userSpaceOnUse"
+       x1="-164.75391"
+       y1="539.09677"
+       x2="-56.447777"
+       y2="541.16626" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3383"
+       id="linearGradient3419"
+       gradientUnits="userSpaceOnUse"
+       x1="-164.75391"
+       y1="539.09677"
+       x2="-56.447777"
+       y2="541.16626" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3273"
+       id="linearGradient3279"
+       x1="298.91531"
+       y1="413.12891"
+       x2="741.21637"
+       y2="413.12891"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994948"
+     inkscape:cx="239.73254"
+     inkscape:cy="588.6338"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="874"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3357" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="spiral"
+       style="fill:#9a7900;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00007546;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3161"
+       sodipodi:cx="555.58392"
+       sodipodi:cy="695.77832"
+       sodipodi:expansion="1"
+       sodipodi:revolution="4.3769202"
+       sodipodi:radius="31.947451"
+       sodipodi:argument="-30.420851"
+       sodipodi:t0="0.03221444"
+       d="M 555.26976,696.75837 C 554.06706,697.47213 552.94677,695.96017 552.86621,694.90713 C 552.69498,692.66911 554.97925,691.18685 557.01213,691.32293 C 560.19978,691.53631 562.17869,694.77121 561.77698,697.76355 C 561.22237,701.8949 556.98704,704.39287 553.04167,703.70905 C 547.96663,702.82944 544.94197,697.57501 545.91552,692.67904 C 547.11244,686.65975 553.39488,683.1048 559.24023,684.37225 C 566.20425,685.88225 570.29153,693.19766 568.72767,699.99165 C 566.90712,707.90077 558.55574,712.52165 550.81357,710.65974 C 541.95906,708.53031 536.80374,699.14097 538.96484,690.45094 C 541.40199,680.65084 551.83068,674.96048 561.46832,677.42156 C 572.21418,680.16564 578.44002,691.63465 575.67835,702.21975 C 572.62796,713.91147 560.11788,720.67313 548.58547,717.61042 C 535.94777,714.25418 528.65005,700.70246 532.01415,688.22285 C 535.67589,674.63909 550.26969,666.80511 563.69642,670.47088 C 578.2263,674.43783 586.59671,690.07406 582.62904,704.44784 C 578.35711,719.92389 561.67816,728.83086 546.35738,724.56111 C 530.97917,720.27535 521.49739,704.32819 524.41869,688.75212"
+       transform="matrix(0.7814815,-0.3587704,0.4542196,1.3564303,-186.29115,-96.346181)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:#9a7800;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2389"
+       sodipodi:cx="594.97986"
+       sodipodi:cy="428.08792"
+       sodipodi:expansion="1"
+       sodipodi:revolution="4.6398344"
+       sodipodi:radius="49.510826"
+       sodipodi:argument="-28.441837"
+       sodipodi:t0="0.030389007"
+       d="M 593.84714,427.0976 C 593.5874,425.06957 596.26633,424.44381 597.72606,424.94684 C 600.82845,426.01594 601.49168,429.94122 600.1293,432.59001 C 597.99303,436.74341 592.50393,437.52136 588.72189,435.24573 C 583.50027,432.1039 582.60643,424.97118 585.81369,420.07407 C 589.93927,413.77479 598.74511,412.76568 604.74959,416.91339 C 612.13172,422.01273 613.25578,432.50574 608.16275,439.61354 C 602.09502,448.08162 589.90704,449.32049 581.69836,443.27918 C 572.14234,436.24627 570.78871,422.35853 577.78024,413.05054 C 585.77626,402.40525 601.36692,400.93688 611.77313,408.87994 C 623.50863,417.83766 625.09174,435.13343 616.1962,446.63707 C 606.27779,459.46348 587.27531,461.16135 574.67482,451.31263 C 560.757,440.43425 558.94436,419.7239 569.74679,406.027 C 581.58456,391.01736 604.0037,389.08993 618.79666,400.84649 C 634.89844,413.64322 636.94066,437.77186 624.22965,453.66061 C 610.4743,470.85477 584.6356,473.0118 567.65129,459.34608 C 549.36453,444.63239 547.09269,417.08315 561.71334,399.00347 C 577.38514,379.62395 606.64528,377.23728 625.82019,392.81304 C 646.18399,409.35454 648.78849,440.11708 632.49139,460.40211"
+       transform="matrix(-0.4341956,-0.2470812,0.4852061,-0.9069108,653.92611,815.42591)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient3171);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.01001859px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 345.26497,245.07499 C 276.11768,260.30885 214.29942,574.38067 288.06697,690.74218 C 380.16656,690.74218 472.26613,690.74218 564.36572,690.74218 C 490.24553,593.43565 552.62733,252.96818 619.58973,244.29042 C 527.84277,244.55195 437.01193,244.81347 345.26497,245.07499 z"
+       id="path2385"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3189"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.1807182,0,0,0.2976874,278.73672,181.38672)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3191"><rect
+           id="rect3193"
+           width="203.04066"
+           height="87.88327"
+           x="279.81226"
+           y="356.36707" /></flowRegion><flowPara
+         id="flowPara3195">OpenAnno</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3213"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px"><flowRegion
+         id="flowRegion3215"><rect
+           id="rect3217"
+           width="136.37059"
+           height="61.619305"
+           x="367.69553"
+           y="332.12341" /></flowRegion><flowPara
+         id="flowPara3219" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3229"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.2160254,0,0,0.3961978,402.81413,163.76274)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3231"><rect
+           id="rect3233"
+           width="918.22864"
+           height="128.28937"
+           x="-134.3503"
+           y="302.82898" /></flowRegion><flowPara
+         id="flowPara3237">www.openanno.org</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3241"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.1807182,0,0,0.2976874,302.2316,211.75973)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3243"><rect
+           id="rect3245"
+           width="203.04066"
+           height="87.88327"
+           x="279.81226"
+           y="356.36707" /></flowRegion><flowPara
+         id="flowPara3247">OpenAnno</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3249"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.2160254,0,0,0.3961978,426.309,194.13576)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3251"><rect
+           id="rect3253"
+           width="918.22864"
+           height="128.28937"
+           x="-134.3503"
+           y="302.82898" /></flowRegion><flowPara
+         id="flowPara3255">www.openanno.org</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3257"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.1807182,0,0,0.2976874,284.07132,261.34036)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3259"><rect
+           id="rect3261"
+           width="203.04066"
+           height="87.88327"
+           x="279.81226"
+           y="356.36707" /></flowRegion><flowPara
+         id="flowPara3263">OpenAnno</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3265"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.2160254,0,0,0.3961978,408.14872,243.71642)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3267"><rect
+           id="rect3269"
+           width="918.22864"
+           height="128.28937"
+           x="-134.3503"
+           y="302.82898" /></flowRegion><flowPara
+         id="flowPara3271">www.openanno.org</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3273"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.1807182,0,0,0.2976874,307.56619,291.71342)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3275"><rect
+           id="rect3277"
+           width="203.04066"
+           height="87.88327"
+           x="279.81226"
+           y="356.36707" /></flowRegion><flowPara
+         id="flowPara3279">OpenAnno</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3281"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.2160254,0,0,0.3961978,431.64361,274.08945)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3283"><rect
+           id="rect3285"
+           width="918.22864"
+           height="128.28937"
+           x="-134.3503"
+           y="302.82898" /></flowRegion><flowPara
+         id="flowPara3287">www.openanno.org</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3289"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.1807182,0,0,0.2976874,238.34636,340.67146)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3291"><rect
+           id="rect3293"
+           width="203.04066"
+           height="87.88327"
+           x="279.81226"
+           y="356.36707" /></flowRegion><flowPara
+         id="flowPara3295">OpenAnno</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3297"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.2160254,0,0,0.3961978,362.42376,323.04749)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3299"><rect
+           id="rect3301"
+           width="918.22864"
+           height="128.28937"
+           x="-134.3503"
+           y="302.82898" /></flowRegion><flowPara
+         id="flowPara3303">www.openanno.org</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3305"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.1807182,0,0,0.2976874,261.84123,371.04451)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3307"><rect
+           id="rect3309"
+           width="203.04066"
+           height="87.88327"
+           x="279.81226"
+           y="356.36707" /></flowRegion><flowPara
+         id="flowPara3311">OpenAnno</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3313"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.2160254,0,0,0.3961978,385.91864,353.42054)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3315"><rect
+           id="rect3317"
+           width="918.22864"
+           height="128.28937"
+           x="-134.3503"
+           y="302.82898" /></flowRegion><flowPara
+         id="flowPara3319">www.openanno.org</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3321"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.1807182,0,0,0.2976874,243.68094,420.62513)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3323"><rect
+           id="rect3325"
+           width="203.04066"
+           height="87.88327"
+           x="279.81226"
+           y="356.36707" /></flowRegion><flowPara
+         id="flowPara3327">OpenAnno</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3329"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.2160254,0,0,0.3961978,367.75836,403.00116)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3331"><rect
+           id="rect3333"
+           width="918.22864"
+           height="128.28937"
+           x="-134.3503"
+           y="302.82898" /></flowRegion><flowPara
+         id="flowPara3335">www.openanno.org</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3337"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.1807182,0,0,0.2976874,267.17584,450.99817)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3339"><rect
+           id="rect3341"
+           width="203.04066"
+           height="87.88327"
+           x="279.81226"
+           y="356.36707" /></flowRegion><flowPara
+         id="flowPara3343">OpenAnno</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3345"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(0.2160254,0,0,0.3961978,391.25325,433.3742)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3347"><rect
+           id="rect3349"
+           width="918.22864"
+           height="128.28937"
+           x="-134.3503"
+           y="302.82898" /></flowRegion><flowPara
+         id="flowPara3351">www.openanno.org</flowPara></flowRoot>    <path
+       style="fill:#9a0300;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.70514506px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 400.13643,583.80041 C 395.96214,609.94642 395.47731,633.72216 405.27046,653.70545 C 418.60575,669.34839 423.25257,640.50022 435.33769,636.03081 C 450.33989,635.58389 455.76964,654.21979 469.52168,664.49943 C 486.99537,666.50024 476.18064,626.31047 490.11827,631.6296 C 490.11827,631.6296 489.64686,651.90855 504.41196,647.98892 C 512.88877,645.73865 518.79672,583.99678 518.79672,583.99678 L 400.13643,583.80041 z"
+       id="path3421"
+       sodipodi:nodetypes="cccccscc"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#linearGradient3413);fill-opacity:1;stroke:#a7830a;stroke-width:1.09500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3363"
+       sodipodi:cx="-145"
+       sodipodi:cy="487.36218"
+       sodipodi:rx="85"
+       sodipodi:ry="85"
+       d="M -60,487.36218 A 85,85 0 1 1 -230,487.36218 A 85,85 0 1 1 -60,487.36218 z"
+       transform="matrix(0.6552101,0,0,0.7027117,558.81007,236.92907)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#linearGradient3405);fill-opacity:1;stroke:#a7830a;stroke-width:1.09500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3361"
+       sodipodi:cx="-145"
+       sodipodi:cy="487.36218"
+       sodipodi:rx="85"
+       sodipodi:ry="85"
+       d="M -60,487.36218 A 85,85 0 1 1 -230,487.36218 A 85,85 0 1 1 -60,487.36218 z"
+       transform="matrix(0.6552101,0,0,0.7027117,546.4339,236.92907)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#linearGradient3397);fill-opacity:1;stroke:#a7830a;stroke-width:1.09500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3365"
+       sodipodi:cx="-108.5914"
+       sodipodi:cy="589.20721"
+       sodipodi:rx="24.748737"
+       sodipodi:ry="23.738585"
+       d="M -83.842663,589.20721 A 24.748737,23.738585 0 1 1 -133.34014,589.20721 A 24.748737,23.738585 0 1 1 -83.842663,589.20721 z"
+       transform="matrix(1.5348757,0,0,1.5749931,619.31848,-351.57146)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3375"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:url(#linearGradient3389);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(1.0810625,0,0,1.5083591,598.75115,-236.86896)"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3377"
+         style="fill:url(#linearGradient3417);fill-opacity:1"><rect
+           id="rect3379"
+           width="92.934036"
+           height="84.852814"
+           x="-166.67517"
+           y="520.01178"
+           style="fill:url(#linearGradient3415);fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3381"
+         style="fill:url(#linearGradient3419);fill-opacity:1">OA</flowPara></flowRoot>    <path
+       style="fill:#8e8e8e;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.81660676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 340.46882,581.08819 L 372.88461,676.73766 L 354.45457,662.1869 L 332.37339,581.5323 L 340.46882,581.08819 z"
+       id="path3425"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Documents and Settings\GreyGhost\Desktop\test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient3279);fill-rule:evenodd;stroke:#000000;stroke-width:2.09283352000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 332.37353,581.19498 L 340.71242,581.01073 L 367.42361,512.95493 L 355.73839,432.6057 L 319.42672,474.12779 L 350.56188,422.72011 L 337.62064,350.32021 L 315.35387,414.38246 L 329.04393,343.91884 L 303.23765,299.98544 L 292.76383,380.0077 L 293.6966,293.65812 L 181.77388,245.06284 L 201.79416,364.51006 L 276.08607,378.5338 L 204.12227,375.00615 L 214.29134,421.38162 L 285.18303,428.64639 L 217.32365,430.83556 L 242.94602,482.74896 L 299.93213,500.10883 L 244.90623,492.45576 L 274.08118,541.52615 L 332.37353,581.19498 z"
+       id="path2494"
+       sodipodi:nodetypes="cccccccccccccccccccccccc" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.09283352px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 334.71999,569.66167 C 290.04964,458.49323 304.34416,322.31185 183.55559,246.57834"
+       id="path2496"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

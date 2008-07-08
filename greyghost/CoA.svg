@@ -1,0 +1,2042 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2387"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="CoA.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2389">
+    <linearGradient
+       id="XMLID_21_"
+       gradientUnits="userSpaceOnUse"
+       x1="154.4004"
+       y1="57.6665"
+       x2="154.4004"
+       y2="272.6664">
+      <stop
+         offset="0"
+         style="stop-color:#E0DEFF"
+         id="stop3304" />
+      <stop
+         offset="0.1863"
+         style="stop-color:#E2E0FF"
+         id="stop3306" />
+      <stop
+         offset="0.2533"
+         style="stop-color:#E8E7FF"
+         id="stop3308" />
+      <stop
+         offset="0.301"
+         style="stop-color:#F3F2FF"
+         id="stop3310" />
+      <stop
+         offset="0.3315"
+         style="stop-color:#FFFFFF"
+         id="stop3312" />
+      <stop
+         offset="0.5582"
+         style="stop-color:#FFFFFF"
+         id="stop3314" />
+      <stop
+         offset="0.5955"
+         style="stop-color:#FFFFFF"
+         id="stop3316" />
+      <stop
+         offset="0.6053"
+         style="stop-color:#F2F5F6"
+         id="stop3318" />
+      <stop
+         offset="0.6512"
+         style="stop-color:#BAC9CF"
+         id="stop3320" />
+      <stop
+         offset="0.6985"
+         style="stop-color:#88A1AD"
+         id="stop3322" />
+      <stop
+         offset="0.7463"
+         style="stop-color:#5E8090"
+         id="stop3324" />
+      <stop
+         offset="0.7945"
+         style="stop-color:#3C6679"
+         id="stop3326" />
+      <stop
+         offset="0.8434"
+         style="stop-color:#225166"
+         id="stop3328" />
+      <stop
+         offset="0.8933"
+         style="stop-color:#0F4259"
+         id="stop3330" />
+      <stop
+         offset="0.9447"
+         style="stop-color:#043952"
+         id="stop3332" />
+      <stop
+         offset="1"
+         style="stop-color:#00364F"
+         id="stop3334" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_22_"
+       gradientUnits="userSpaceOnUse"
+       x1="210.729"
+       y1="80.0576"
+       x2="212.729"
+       y2="92.0576"
+       gradientTransform="matrix(0.211555,0,0,0.1758955,111.20411,569.86129)">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop3486" />
+      <stop
+         offset="0.2135"
+         style="stop-color:#D4D4D4"
+         id="stop3488" />
+      <stop
+         offset="0.4574"
+         style="stop-color:#AAAAAA"
+         id="stop3490" />
+      <stop
+         offset="0.6785"
+         style="stop-color:#8C8C8C"
+         id="stop3492" />
+      <stop
+         offset="0.8668"
+         style="stop-color:#7A7A7A"
+         id="stop3494" />
+      <stop
+         offset="1"
+         style="stop-color:#737373"
+         id="stop3496" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_23_"
+       gradientUnits="userSpaceOnUse"
+       x1="213.1958"
+       y1="107.1665"
+       x2="213.1958"
+       y2="131.6665"
+       gradientTransform="matrix(0.211555,0,0,0.1758955,111.20411,569.86129)">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop3501" />
+      <stop
+         offset="0.2135"
+         style="stop-color:#D4D4D4"
+         id="stop3503" />
+      <stop
+         offset="0.4574"
+         style="stop-color:#AAAAAA"
+         id="stop3505" />
+      <stop
+         offset="0.6785"
+         style="stop-color:#8C8C8C"
+         id="stop3507" />
+      <stop
+         offset="0.8668"
+         style="stop-color:#7A7A7A"
+         id="stop3509" />
+      <stop
+         offset="1"
+         style="stop-color:#737373"
+         id="stop3511" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_24_"
+       gradientUnits="userSpaceOnUse"
+       x1="172.5005"
+       y1="92.1665"
+       x2="172.5005"
+       y2="150.6665"
+       gradientTransform="matrix(0.211555,0,0,0.1758955,111.20411,569.86129)">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop3516" />
+      <stop
+         offset="0.2135"
+         style="stop-color:#D4D4D4"
+         id="stop3518" />
+      <stop
+         offset="0.4574"
+         style="stop-color:#AAAAAA"
+         id="stop3520" />
+      <stop
+         offset="0.6785"
+         style="stop-color:#8C8C8C"
+         id="stop3522" />
+      <stop
+         offset="0.8668"
+         style="stop-color:#7A7A7A"
+         id="stop3524" />
+      <stop
+         offset="1"
+         style="stop-color:#737373"
+         id="stop3526" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_25_"
+       gradientUnits="userSpaceOnUse"
+       x1="177.5376"
+       y1="123.7515"
+       x2="170.8716"
+       y2="147.085"
+       gradientTransform="matrix(0.211555,0,0,0.1758955,111.20411,569.86129)">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop3531" />
+      <stop
+         offset="0.1944"
+         style="stop-color:#C4C4C4"
+         id="stop3533" />
+      <stop
+         offset="0.3961"
+         style="stop-color:#8F8F8F"
+         id="stop3535" />
+      <stop
+         offset="0.5846"
+         style="stop-color:#656565"
+         id="stop3537" />
+      <stop
+         offset="0.7539"
+         style="stop-color:#464646"
+         id="stop3539" />
+      <stop
+         offset="0.8981"
+         style="stop-color:#343434"
+         id="stop3541" />
+      <stop
+         offset="1"
+         style="stop-color:#2D2D2D"
+         id="stop3543" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_26_"
+       gradientUnits="userSpaceOnUse"
+       x1="175.2378"
+       y1="36.2803"
+       x2="175.2378"
+       y2="66.9015"
+       gradientTransform="matrix(0.211555,0,0,0.1758955,111.20411,569.86129)">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop3562" />
+      <stop
+         offset="0.2135"
+         style="stop-color:#D4D4D4"
+         id="stop3564" />
+      <stop
+         offset="0.4574"
+         style="stop-color:#AAAAAA"
+         id="stop3566" />
+      <stop
+         offset="0.6785"
+         style="stop-color:#8C8C8C"
+         id="stop3568" />
+      <stop
+         offset="0.8668"
+         style="stop-color:#7A7A7A"
+         id="stop3570" />
+      <stop
+         offset="1"
+         style="stop-color:#737373"
+         id="stop3572" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_27_"
+       gradientUnits="userSpaceOnUse"
+       x1="140.2998"
+       y1="104.1665"
+       x2="140.2998"
+       y2="136.6665"
+       gradientTransform="matrix(0.211555,0,0,0.1758955,111.20411,569.86129)">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop3577" />
+      <stop
+         offset="0.2135"
+         style="stop-color:#D4D4D4"
+         id="stop3579" />
+      <stop
+         offset="0.4574"
+         style="stop-color:#AAAAAA"
+         id="stop3581" />
+      <stop
+         offset="0.6785"
+         style="stop-color:#8C8C8C"
+         id="stop3583" />
+      <stop
+         offset="0.8668"
+         style="stop-color:#7A7A7A"
+         id="stop3585" />
+      <stop
+         offset="1"
+         style="stop-color:#737373"
+         id="stop3587" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_28_"
+       gradientUnits="userSpaceOnUse"
+       x1="141.3193"
+       y1="32.6665"
+       x2="141.3193"
+       y2="61.1665"
+       gradientTransform="matrix(0.211555,0,0,0.1758955,111.20411,569.86129)">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop3592" />
+      <stop
+         offset="0.2135"
+         style="stop-color:#D4D4D4"
+         id="stop3594" />
+      <stop
+         offset="0.4574"
+         style="stop-color:#AAAAAA"
+         id="stop3596" />
+      <stop
+         offset="0.6785"
+         style="stop-color:#8C8C8C"
+         id="stop3598" />
+      <stop
+         offset="0.8668"
+         style="stop-color:#7A7A7A"
+         id="stop3600" />
+      <stop
+         offset="1"
+         style="stop-color:#737373"
+         id="stop3602" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_29_"
+       gradientUnits="userSpaceOnUse"
+       x1="17.2441"
+       y1="330.7212"
+       x2="27.0708"
+       y2="330.7212"
+       gradientTransform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)">
+      <stop
+         offset="0.0056"
+         style="stop-color:#000000"
+         id="stop3613" />
+      <stop
+         offset="0.7303"
+         style="stop-color:#3F2200"
+         id="stop3615" />
+      <stop
+         offset="0.7824"
+         style="stop-color:#532A00"
+         id="stop3617" />
+      <stop
+         offset="0.8636"
+         style="stop-color:#6B3300"
+         id="stop3619" />
+      <stop
+         offset="0.9384"
+         style="stop-color:#7A3900"
+         id="stop3621" />
+      <stop
+         offset="1"
+         style="stop-color:#7F3B00"
+         id="stop3623" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_30_"
+       gradientUnits="userSpaceOnUse"
+       x1="17.2876"
+       y1="326.9858"
+       x2="38.2559"
+       y2="326.9858"
+       gradientTransform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)">
+      <stop
+         offset="0"
+         style="stop-color:#904F2C"
+         id="stop3628" />
+      <stop
+         offset="0.171"
+         style="stop-color:#AB6E3F"
+         id="stop3630" />
+      <stop
+         offset="0.4206"
+         style="stop-color:#CD9557"
+         id="stop3632" />
+      <stop
+         offset="0.6503"
+         style="stop-color:#E5B169"
+         id="stop3634" />
+      <stop
+         offset="0.8508"
+         style="stop-color:#F4C273"
+         id="stop3636" />
+      <stop
+         offset="1"
+         style="stop-color:#F9C877"
+         id="stop3638" />
+    </linearGradient>
+    <radialGradient
+       id="XMLID_31_"
+       cx="20.5708"
+       cy="338.9985"
+       r="9.0139"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop3643" />
+      <stop
+         offset="1"
+         style="stop-color:#000000"
+         id="stop3645" />
+    </radialGradient>
+    <radialGradient
+       id="XMLID_32_"
+       cx="24.9878"
+       cy="253.6665"
+       r="10.5416"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop3650" />
+      <stop
+         offset="1"
+         style="stop-color:#000000"
+         id="stop3652" />
+    </radialGradient>
+    <linearGradient
+       id="XMLID_33_"
+       gradientUnits="userSpaceOnUse"
+       x1="21.0649"
+       y1="258.834"
+       x2="29.1167"
+       y2="258.834"
+       gradientTransform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)">
+      <stop
+         offset="0.0056"
+         style="stop-color:#000000"
+         id="stop3657" />
+      <stop
+         offset="0.7303"
+         style="stop-color:#3F2200"
+         id="stop3659" />
+      <stop
+         offset="0.7824"
+         style="stop-color:#532A00"
+         id="stop3661" />
+      <stop
+         offset="0.8636"
+         style="stop-color:#6B3300"
+         id="stop3663" />
+      <stop
+         offset="0.9384"
+         style="stop-color:#7A3900"
+         id="stop3665" />
+      <stop
+         offset="1"
+         style="stop-color:#7F3B00"
+         id="stop3667" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_34_"
+       gradientUnits="userSpaceOnUse"
+       x1="-867.9219"
+       y1="43.8892"
+       x2="-858.0952"
+       y2="43.8892"
+       gradientTransform="matrix(-0.2115548,0,0,-0.1758955,-11.996776,622.68864)">
+      <stop
+         offset="0.0056"
+         style="stop-color:#000000"
+         id="stop3674" />
+      <stop
+         offset="0.7303"
+         style="stop-color:#3F2200"
+         id="stop3676" />
+      <stop
+         offset="0.7824"
+         style="stop-color:#532A00"
+         id="stop3678" />
+      <stop
+         offset="0.8636"
+         style="stop-color:#6B3300"
+         id="stop3680" />
+      <stop
+         offset="0.9384"
+         style="stop-color:#7A3900"
+         id="stop3682" />
+      <stop
+         offset="1"
+         style="stop-color:#7F3B00"
+         id="stop3684" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_35_"
+       gradientUnits="userSpaceOnUse"
+       x1="258.0698"
+       y1="260.1812"
+       x2="288.7368"
+       y2="260.1812"
+       gradientTransform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)">
+      <stop
+         offset="0"
+         style="stop-color:#904F2C"
+         id="stop3689" />
+      <stop
+         offset="0.171"
+         style="stop-color:#AB6E3F"
+         id="stop3691" />
+      <stop
+         offset="0.4206"
+         style="stop-color:#CD9557"
+         id="stop3693" />
+      <stop
+         offset="0.6503"
+         style="stop-color:#E5B169"
+         id="stop3695" />
+      <stop
+         offset="0.8508"
+         style="stop-color:#F4C273"
+         id="stop3697" />
+      <stop
+         offset="1"
+         style="stop-color:#F9C877"
+         id="stop3699" />
+    </linearGradient>
+    <radialGradient
+       id="XMLID_36_"
+       cx="-862.5952"
+       cy="53.1665"
+       r="9.0139"
+       gradientTransform="matrix(-1,0,0,-1,-582.3584,300.333)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop3704" />
+      <stop
+         offset="1"
+         style="stop-color:#000000"
+         id="stop3706" />
+    </radialGradient>
+    <radialGradient
+       id="XMLID_37_"
+       cx="-860.1782"
+       cy="-31.1655"
+       r="10.5416"
+       gradientTransform="matrix(-1,0,0,-1,-582.3584,300.333)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop3711" />
+      <stop
+         offset="0.1455"
+         style="stop-color:#D3D3D3"
+         id="stop3713" />
+      <stop
+         offset="0.4612"
+         style="stop-color:#7A7A7A"
+         id="stop3715" />
+      <stop
+         offset="0.7185"
+         style="stop-color:#383838"
+         id="stop3717" />
+      <stop
+         offset="0.9043"
+         style="stop-color:#101010"
+         id="stop3719" />
+      <stop
+         offset="1"
+         style="stop-color:#000000"
+         id="stop3721" />
+    </radialGradient>
+    <linearGradient
+       id="XMLID_38_"
+       gradientUnits="userSpaceOnUse"
+       x1="-864.0952"
+       y1="-27.6929"
+       x2="-856.0952"
+       y2="-27.6929"
+       gradientTransform="matrix(-0.2115548,0,0,-0.1758955,-11.996776,622.68864)">
+      <stop
+         offset="0.0056"
+         style="stop-color:#000000"
+         id="stop3726" />
+      <stop
+         offset="0.7303"
+         style="stop-color:#3F2200"
+         id="stop3728" />
+      <stop
+         offset="0.7824"
+         style="stop-color:#532A00"
+         id="stop3730" />
+      <stop
+         offset="0.8636"
+         style="stop-color:#6B3300"
+         id="stop3732" />
+      <stop
+         offset="0.9384"
+         style="stop-color:#7A3900"
+         id="stop3734" />
+      <stop
+         offset="1"
+         style="stop-color:#7F3B00"
+         id="stop3736" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_39_"
+       gradientUnits="userSpaceOnUse"
+       x1="7.5786"
+       y1="293.5317"
+       x2="295.7368"
+       y2="293.5317"
+       gradientTransform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)">
+      <stop
+         offset="0"
+         style="stop-color:#904F2C"
+         id="stop3741" />
+      <stop
+         offset="0.171"
+         style="stop-color:#AB6E3F"
+         id="stop3743" />
+      <stop
+         offset="0.4206"
+         style="stop-color:#CD9557"
+         id="stop3745" />
+      <stop
+         offset="0.6503"
+         style="stop-color:#E5B169"
+         id="stop3747" />
+      <stop
+         offset="0.8508"
+         style="stop-color:#F4C273"
+         id="stop3749" />
+      <stop
+         offset="1"
+         style="stop-color:#F9C877"
+         id="stop3751" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_40_"
+       gradientUnits="userSpaceOnUse"
+       x1="151.6572"
+       y1="269.334"
+       x2="151.6572"
+       y2="318.0005"
+       gradientTransform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)">
+      <stop
+         offset="0"
+         style="stop-color:#904F2C"
+         id="stop3756" />
+      <stop
+         offset="0.171"
+         style="stop-color:#AB6E3F"
+         id="stop3758" />
+      <stop
+         offset="0.4206"
+         style="stop-color:#CD9557"
+         id="stop3760" />
+      <stop
+         offset="0.6503"
+         style="stop-color:#E5B169"
+         id="stop3762" />
+      <stop
+         offset="0.8508"
+         style="stop-color:#F4C273"
+         id="stop3764" />
+      <stop
+         offset="1"
+         style="stop-color:#F9C877"
+         id="stop3766" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3182">
+      <stop
+         style="stop-color:#616060;stop-opacity:1;"
+         offset="0"
+         id="stop3184" />
+      <stop
+         style="stop-color:#d8d8d8;stop-opacity:0;"
+         offset="1"
+         id="stop3186" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2395" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3182"
+       id="radialGradient3465"
+       cx="123.72401"
+       cy="612.68719"
+       fx="123.72401"
+       fy="612.68719"
+       r="16.93829"
+       gradientTransform="matrix(3.2395306,3.2118844e-7,-3.7564047e-7,3.3974278,-256.53988,-1488.8789)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="118.97782"
+     inkscape:cy="421.11688"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="874"
+     inkscape:window-x="0"
+     inkscape:window-y="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2397" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2392">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2399"
+       style="fill:url(#radialGradient3465);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.23800308px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 144.21019,561.08488 C 136.57238,576.41628 125.47202,571.4463 106.92159,556.22372 C 106.92159,600.66305 116.24374,599.97412 144.21019,629.1411 C 172.17657,599.97412 181.61359,600.66111 181.61359,556.22177 C 163.06319,571.44436 151.84798,576.41628 144.21019,561.08488 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#505050;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.23800308px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 106.93828,556.10394 C 106.58518,556.10394 121.14245,562.50488 127.70599,563.37051 C 138.64513,564.81308 144.09085,561.19686 144.09085,561.19686 C 139.40204,570.9054 131.37286,577.51581 106.93828,556.10394 z"
+       id="path3484"
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#505050;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.23800308px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 181.67727,556.14332 C 182.03036,556.14332 167.4731,562.54419 160.90955,563.40981 C 149.97041,564.8524 144.52472,561.23618 144.52472,561.23618 C 149.21349,570.94469 157.24267,577.55517 181.67727,556.14332 z"
+       id="path3488"
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       cx="154.401"
+       cy="164.495"
+       rx="124.83"
+       ry="122.95"
+       id="ellipse3336"
+       style="fill:url(#XMLID_21_);stroke:#382611;stroke-width:10"
+       sodipodi:cx="154.401"
+       sodipodi:cy="164.495"
+       sodipodi:rx="124.83"
+       sodipodi:ry="122.95"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 126.88604,608.29392 C 126.88604,608.29392 128.57848,609.17339 130.90563,608.5577 C 133.23269,607.94212 136.82914,606.53492 136.82914,606.53492 C 136.82914,606.53492 141.06031,605.03983 143.70467,604.77595 C 146.34911,604.51209 151.32073,603.54469 151.32073,603.54469 L 152.80155,603.54469 L 153.75354,605.42097 C 153.75354,605.42097 154.48256,605.86796 157.87444,604.94236 C 161.21532,604.03072 161.85312,602.11767 162.32768,601.54122 C 162.79438,600.97435 163.16778,598.79573 163.16778,598.79573 L 166.23525,598.18006 C 166.23525,598.18006 165.38912,603.54487 163.16778,605.21585 C 160.94643,606.88689 154.70552,609.52536 148.35891,610.58072 C 142.01222,611.63607 135.77136,612.95534 135.77136,612.95534 L 131.43451,613.13119 C 131.43451,613.13101 128.36697,612.07565 126.88604,608.29392 z"
+       id="path3338"
+       style="fill:#7a1218"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 131.2276,613.08407 C 131.2276,613.08407 136.94952,615.40378 141.11886,614.71481 C 147.58248,613.64672 150.03947,613.10237 154.62301,611.40212 C 159.20663,609.70192 163.08332,606.00791 164.56427,603.45745 L 148.98151,609.23284 L 136.49975,612.51632 L 131.2276,613.08407 z"
+       id="path3340"
+       style="fill:#270303"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       transform="matrix(0.2007236,-5.556545e-2,6.6830261e-2,0.1668898,97.222492,578.2813)"
+       cx="114.615"
+       cy="227.80099"
+       rx="8.9169998"
+       ry="4.6550002"
+       id="ellipse3342"
+       sodipodi:cx="114.615"
+       sodipodi:cy="227.80099"
+       sodipodi:rx="8.9169998"
+       sodipodi:ry="4.6550002"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 133.8291,609.86307 C 133.8291,609.86307 133.69688,610.5007 134.30504,610.61059 C 134.91327,610.72056 135.9182,610.47871 136.26196,610.28079 C 136.60578,610.08293 137.24885,609.46867 137.24885,609.46867 C 137.24885,609.46867 137.48708,609.9772 136.4471,610.4567 C 135.45106,610.91578 134.70174,610.89646 134.41089,610.85246 C 134.11996,610.80847 133.75612,610.688 133.66179,610.42609 C 133.53844,610.08293 133.8291,609.86307 133.8291,609.86307 z"
+       id="path3344"
+       style="fill:#4b110e"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 138.4744,612.63343 C 138.19238,612.63343 137.91024,612.8679 137.91024,612.8679 L 138.01598,613.10237 L 137.59286,613.92329 C 137.59286,613.92329 137.1344,614.18705 136.88772,614.45095 C 136.64107,614.71481 136.18263,614.80274 135.90043,614.77339 C 135.61821,614.74398 135.65357,614.39215 135.65357,614.39215 L 135.65357,609.83282 L 135.30084,609.74485 L 134.9482,609.83282 L 134.9482,614.39215 C 134.9482,614.39215 134.98332,614.74398 134.70132,614.77339 C 134.41933,614.80274 133.96092,614.71481 133.71398,614.45095 C 133.4671,614.18705 133.00887,613.92329 133.00887,613.92329 L 132.58579,613.10237 L 132.69154,612.8679 C 132.69154,612.8679 132.40955,612.63343 132.12728,612.63343 C 131.84515,612.63343 131.6338,612.77995 131.6338,613.33705 C 131.6338,613.89407 131.6338,613.89407 131.6338,613.89407 C 131.6338,613.89407 131.84535,613.77688 132.30374,614.09935 C 132.76221,614.42173 132.86798,614.62704 132.86798,614.62704 L 133.22064,615.18412 C 133.22064,615.18412 133.74957,615.8291 135.30084,615.85832 C 136.85221,615.82889 137.3811,615.18412 137.3811,615.18412 L 137.73377,614.62704 C 137.73377,614.62704 137.83954,614.42173 138.29794,614.09935 C 138.75642,613.77688 138.96796,613.89407 138.96796,613.89407 C 138.96796,613.89407 138.96796,613.89407 138.96796,613.33705 C 138.96796,612.77995 138.75661,612.63343 138.4744,612.63343 z"
+       id="path3346"
+       style="fill:#8c6631"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 125.88683,601.34674 C 125.88683,601.34674 128.49747,599.34784 133.22086,598.6497 C 134.41089,598.4738 134.98379,598.4738 134.98379,598.4738 L 135.40682,599.17741 C 135.40682,599.17741 135.68888,600.40863 137.3813,600.52601 C 139.07375,600.64327 140.41373,600.11545 140.41373,600.11545 L 141.02197,601.33215 C 141.02197,601.33215 136.56173,602.54565 135.25707,603.11303 C 133.72333,603.78006 129.62446,604.16104 129.62446,604.16104 L 126.23956,604.39557 L 125.88683,601.34674 z"
+       id="path3348"
+       style="fill:#691714"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 149.44016,599.82222 C 149.44016,599.82222 150.63882,596.1284 152.89549,595.01446 C 155.15212,593.90049 156.84457,594.01764 159.59482,594.01764 C 162.345,594.01764 164.88373,594.42803 165.51832,594.77984 C 166.15298,595.13159 166.435,595.48346 166.435,595.48346 C 166.435,595.48346 165.58898,596.1284 164.81324,596.24558 C 164.03752,596.36275 163.50837,596.62672 163.20879,596.93451 C 162.9092,597.24237 162.41541,599.23598 162.41541,599.23598 C 162.41541,599.23598 162.55638,600.93633 161.35772,602.16766 C 160.15905,603.3989 158.38662,604.68679 156.20991,604.86465 C 153.15993,605.11387 153.7946,604.5422 153.7946,604.5422 L 152.40191,601.28816 L 150.14528,600.87776 L 149.44016,599.82222 z"
+       id="path3350"
+       style="fill:#96161d"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 135.25074,603.45766 C 133.08291,603.41826 131.5705,603.32571 129.93582,602.9287 C 127.89515,602.43306 127.3796,601.63904 130.42664,601.20057 C 133.47367,600.76208 135.98187,600.94794 135.98187,600.94794 L 142.39155,601.07918 L 135.25074,603.45766 z"
+       id="path3352"
+       style="fill:#6b4e2b"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 135.67386,603.10588 C 133.50605,603.06818 131.99362,602.98452 130.35806,602.63196 C 128.31662,602.19189 127.79939,601.49062 130.84552,601.10751 C 133.89173,600.72454 136.40009,600.89202 136.40009,600.89202 L 142.8098,601.01639 L 135.67386,603.10588 z"
+       id="path3354"
+       style="fill:#ac8c55"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 161.78082,597.85822 C 161.78082,597.85822 164.82638,597.36935 165.05993,596.71485 C 165.29345,596.06036 164.10789,596.18717 163.05017,596.01125 C 161.99231,595.83535 156.49195,595.48361 155.22259,595.83535 C 153.95324,596.18717 152.36663,596.62693 152.36663,596.62693 L 151.52038,596.71485 L 161.78082,597.85822 z"
+       id="path3356"
+       style="fill:#ac8c55"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="139.12683"
+       y1="600.89252"
+       x2="139.12683"
+       y2="601.96222"
+       id="line3358"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="137.52261"
+       y1="601.03888"
+       x2="137.52261"
+       y2="602.56329"
+       id="line3360"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="140.64307"
+       y1="600.58466"
+       x2="140.64307"
+       y2="601.68384"
+       id="line3362"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="146.4606"
+       y1="600.20325"
+       x2="146.4606"
+       y2="601.06818"
+       id="line3364"
+       style="fill:none;stroke:#8c6631;stroke-width:0.38580635;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="135.84778"
+       y1="601.09723"
+       x2="135.84778"
+       y2="602.88544"
+       id="line3366"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 134.8562,603.01931 C 136.57316,602.5043 138.40162,601.90431 139.35597,601.63973 C 141.04841,601.17066 144.85658,600.70168 146.05527,600.70168 C 147.25394,600.70168 150.4273,600.70168 151.41458,600.81906 C 152.40191,600.93633 152.82505,601.17082 152.89549,601.52258 C 152.96589,601.87441 153.17748,603.34011 153.53018,603.98515 C 153.88282,604.63016 154.30592,604.86465 154.30592,604.86465 L 153.74169,605.45091 L 152.78971,603.5746 L 151.1326,603.5746 L 147.53612,604.16086 C 147.53612,604.16086 141.68306,605.09893 138.36882,606.09575 C 135.05465,607.09255 132.09258,608.38237 130.89396,608.58766 C 129.69528,608.7929 128.35529,608.73416 127.36801,608.49971 C 126.38068,608.26522 126.87442,608.32379 126.87442,608.32379 C 126.87442,608.32379 125.11385,605.72897 125.34089,603.86767 C 125.34089,603.86767 127.60879,604.45568 127.74983,603.86939 C 127.89091,603.28313 127.93216,602.98833 127.93216,602.98833 L 129.4131,602.92979 L 129.62464,604.16104 C 129.62464,604.16104 129.8362,604.10251 131.5286,603.86784 C 132.26651,603.76558 133.52784,603.41788 134.8562,603.01931"
+       id="path3368"
+       style="fill:#d1bb6f"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 125.67531,605.04051 C 125.67531,605.04051 129.34225,605.86141 133.99645,604.51283 C 138.65062,603.16424 140.76622,602.57798 143.02287,602.10888 C 145.2795,601.63973 148.45258,600.99472 149.15795,601.11208 C 149.86324,601.22938 150.70946,601.05348 151.55568,601.34653 C 152.40191,601.63956 152.77426,603.45323 152.84471,603.68768 L 152.47241,603.69171 C 150.49663,603.75033 150.52775,603.74523 145.70258,604.57121 C 140.90734,605.39213 134.7722,607.44413 133.43246,607.85466 C 132.09258,608.26522 131.23751,608.69017 129.62446,608.79275 C 128.01132,608.89523 126.8742,608.32365 126.8742,608.32365 C 126.8742,608.32365 125.81643,606.50607 125.74602,605.97839 C 125.67553,605.45072 125.67531,605.04051 125.67531,605.04051 z"
+       id="path3370"
+       style="fill:#cea665"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 126.8742,608.4288 C 126.8742,608.4288 125.7743,606.32458 125.56851,605.69152 C 125.36265,605.05846 125.34067,603.86784 125.34067,603.86784 C 125.34067,603.86784 126.33958,604.6982 127.28144,604.70896 C 129.35576,604.73251 129.41281,602.92979 129.41281,602.92979 L 129.87741,605.21525 L 130.7973,605.18317 L 131.58149,608.47766 C 131.58149,608.47766 129.84512,608.82949 129.49241,608.82949 C 129.13973,608.82949 128.1173,608.71954 128.1173,608.71954 L 126.8742,608.4288 z"
+       id="path3372"
+       style="opacity:0.65;fill:#523c26"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 128.65362,603.00577 L 111.23568,593.09685 C 111.23568,593.09685 110.81256,593.62451 113.0692,595.03173 C 115.32582,596.43889 126.8907,603.76788 126.8907,603.76788 C 126.8907,603.76788 128.08957,604.00237 128.37158,603.65055 C 128.65362,603.29881 128.65362,603.00577 128.65362,603.00577 z"
+       id="path3374"
+       style="fill:#95724b"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 126.59961,604.02381 C 126.59961,604.02381 127.753,604.54436 128.15265,604.00431 C 128.76574,603.17583 127.93194,602.98856 127.93194,602.98856 L 127.36778,603.34028 C 127.36778,603.34028 126.73314,603.16441 126.45107,602.92994 C 126.16907,602.69547 126.02796,602.05047 126.02796,602.05047 L 126.52152,601.81598 L 125.74577,601.40565 C 125.74577,601.40565 126.1689,602.28513 125.81621,602.16779 C 125.46355,602.05047 123.84178,601.6987 123.84178,601.28833 C 123.84178,600.87793 123.63027,600.05706 123.63027,600.05706 L 123.41866,599.93975 C 123.41866,599.93975 123.48912,600.46746 123.20711,600.52601 C 122.92507,600.58457 121.79667,600.52601 121.51464,599.88098 C 121.23269,599.23598 121.02112,598.76708 121.02112,598.76708 L 120.95065,598.59114 C 120.95065,598.59114 120.80955,598.94288 120.38648,598.94288 C 119.96333,598.94288 119.39911,598.59114 119.39911,598.59114 L 118.48247,597.94612 L 117.91824,597.53574 L 117.14248,597.53574 L 125.25943,602.86996 L 126.59961,604.02381 z"
+       id="path3376"
+       style="fill:#523c26"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 128.2844,606.2132 L 128.53131,607.73774 L 127.1562,607.62036 L 126.45107,606.03735 C 126.45107,606.03735 127.50866,606.38911 128.2844,606.2132 z"
+       id="path3378"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 129.20133,607.70835 L 128.98975,606.27175 L 131.49306,606.03735 L 131.70462,607.38591 C 131.70462,607.38591 131.31685,607.62036 130.54111,607.67914 C 129.76535,607.73793 129.20133,607.70835 129.20133,607.70835 z"
+       id="path3380"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="98.737,205.333 108.737,201.333 110.404,209 99.904,212.5 98.737,205.333 "
+       id="polygon3382"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="112.071,200.333 124.071,196 125.737,203.333 114.071,207.333 112.071,200.333 "
+       id="polygon3384"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="131.738,193 137.738,191 139.571,198.667 128.571,202.667 126.238,195 131.738,193 "
+       id="polygon3386"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="140.904,190.333 152.404,187.333 153.738,194.5 142.738,197.667 140.904,190.333 "
+       id="polygon3388"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="155.071,186.667 163.071,184.667 164.071,192 156.238,193.5 155.071,186.667 "
+       id="polygon3390"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="165.406,184.167 173.072,182.833 174.239,190.333 166.571,191.333 165.406,184.167 "
+       id="polygon3392"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="175.405,183 183.571,182.333 184.571,189.167 176.571,190 175.405,183 "
+       id="polygon3394"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="185.571,182.417 190.738,182.333 192.571,182.333 194.404,188.667 186.738,189 185.571,182.417 "
+       id="polygon3396"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 134.98379,598.4738 C 134.98379,598.4738 131.89871,598.53236 129.25419,599.46323 C 127.34132,600.13655 126.5897,600.56156 125.97508,601.20024 C 125.86932,601.31013 125.78109,601.38342 125.78109,601.38342 L 126.52152,601.81581 C 126.52152,601.81581 127.74687,600.58457 129.20133,600.05685 C 130.65576,599.5292 135.28355,598.94288 135.28355,598.94288 L 134.98379,598.4738 z"
+       id="path3398"
+       style="fill:#d1bb6f"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 154.30592,604.86465 C 154.30592,604.86465 157.28526,605.11387 159.24212,603.83861 C 161.19905,602.5634 161.93944,601.50803 162.04523,600.84837 C 162.15108,600.18879 162.46833,598.73764 162.46833,598.73764 L 163.15591,598.8256 C 163.15591,598.8256 162.91115,602.73352 159.7782,604.19744 C 156.88411,605.54974 156.72336,605.44596 155.53993,605.55358 C 154.01165,605.69276 153.74169,605.45108 153.74169,605.45108 L 154.30592,604.86465 z"
+       id="path3400"
+       style="fill:#cea665"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="174.405,0 178.071,0.333 187.738,172.333 188.404,175.833 169.246,175.261 174.405,0 "
+       id="polygon3402"
+       style="fill:#694e30"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="200.405,29 152.738,40.333 151.738,43 200.738,31.667 201.405,29.667 200.405,29 "
+       id="polygon3404"
+       style="fill:#694e30"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 166.22349,598.20998 C 166.22349,598.20998 166.8044,597.51699 166.54074,596.49499 C 166.4052,595.96977 166.435,595.48361 166.435,595.48361 C 166.435,595.48361 165.8708,595.92879 165.29345,596.06036 C 163.58348,596.44996 163.73774,596.40705 163.20879,596.93476 C 162.67993,597.46242 162.46833,598.73764 162.46833,598.73764 L 162.90139,598.79536 L 163.15591,598.8256 L 166.22349,598.20998 z"
+       id="path3406"
+       style="fill:#8c6631"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="233.071,103.167 206.821,104.167 205.821,107.417 230.071,105.667 232.571,104.917 233.071,103.167 "
+       id="polygon3408"
+       style="fill:#694e30"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="224.571,76.667 197.821,79.417 197.821,80.417 199.571,80.917 224.321,78.667 224.571,76.667 "
+       id="polygon3410"
+       style="fill:#694e30"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 146.68994,583.11212 L 150.35195,583.05359 L 150.21889,583.4054 L 149.88591,583.58125 C 149.88591,583.58125 149.3534,583.4054 149.02043,583.4054 C 148.68742,583.4054 147.68849,583.46393 147.68849,583.69861 C 147.68849,583.93322 147.35567,583.93306 147.35567,583.93306 L 146.68994,583.11212 z"
+       id="path3412"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 153.05415,602.07967 C 153.05415,602.07967 155.27548,604.49825 156.59773,604.27836 C 157.9199,604.05852 160.40567,603.17902 161.04035,601.81581 C 161.67504,600.45263 161.04035,599.74908 161.04035,599.74908 C 161.04035,599.74908 153.63591,598.95755 152.63102,598.8256 C 151.62614,598.69366 150.8328,598.166 150.8328,598.166 L 150.88569,597.46242 L 153.42433,596.58296 C 153.42433,596.58296 157.33813,596.67089 159.13632,596.9787 C 160.93457,597.2865 162.83859,597.41843 162.83859,597.41843 C 162.83859,597.41843 162.25681,600.40863 161.88656,601.33215 C 161.51634,602.25557 159.82394,603.61872 158.18438,604.32233 C 156.54482,605.02594 154.30592,604.86465 154.30592,604.86465 C 154.30592,604.86465 153.42433,604.23441 153.26573,603.4429 C 153.10701,602.65137 153.05415,602.07967 153.05415,602.07967 z"
+       id="path3414"
+       style="fill:#660d12"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="178.071,0.333 188.404,175.833 179.924,175.247 176.091,0.211 178.071,0.333 "
+       id="polygon3416"
+       style="fill:#543a1e"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 155.69858,580.44453 L 156.17462,580.44453 L 157.02081,598.6497 C 157.02081,598.6497 156.49195,598.78159 155.96298,598.78159 C 155.4341,598.78159 154.85238,598.6497 154.85238,598.6497 L 155.69858,580.44453 z"
+       id="path3418"
+       style="fill:#694e30"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       id="Ebene_3"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="M 187.321,160.917 C 187.321,160.917 190.571,163.792 196.946,164.792 C 203.321,165.792 223.321,168.417 223.321,168.417 L 235.696,170.292 C 235.696,170.292 246.03,174.042 231.238,186.917 C 223.016,194.073 218.946,193.667 218.946,193.667 L 195.946,177.917 C 195.946,177.917 192.071,176.334 191.071,176.167 C 190.071,176 187.946,175.667 187.946,175.667 L 187.321,160.917 z"
+         id="path3421"
+         style="fill:#ac8c55" />
+      <path
+         d="M 227.711,178.837 C 227.711,178.837 235.152,174.832 236.653,173.833 C 237.904,173 241.404,171.416 242.487,166.083 C 243.038,163.373 242.587,166.763 242.987,161.583 L 243.487,158.25 L 244.07,156.667 L 241.821,156.334 L 226.237,177.084 L 227.711,178.837 z"
+         id="path3423"
+         style="fill:#735428" />
+      <polygon
+         points="232.842,155.291 232.889,157.755 231.39,157.755 231.39,159.663 229.618,159.663 229.618,161.844 228.255,161.844 228.255,164.025 226.892,164.025 226.892,166.615 225.393,166.615 225.393,168.659 223.757,168.659 223.757,170.84 222.257,170.84 222.257,172.476 220.349,172.476 220.349,175.338 218.441,175.338 218.441,177.246 227.711,178.837 227.711,176.929 229.62,176.929 229.62,174.067 231.528,174.067 231.528,172.431 233.028,172.431 233.028,170.25 234.664,170.25 234.664,168.206 236.163,168.206 236.163,165.616 237.526,165.616 237.526,163.435 238.888,163.435 238.888,161.254 240.661,161.254 240.661,159.346 242.16,159.346 242.113,156.882 232.842,155.291 "
+         id="polygon3425"
+         style="fill:#9d7236;stroke:#59421f;stroke-width:0.5" />
+      <line
+         x1="227.711"
+         y1="176.929"
+         x2="218.44099"
+         y2="175.338"
+         id="line3427"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <line
+         x1="229.623"
+         y1="174.78999"
+         x2="220.35201"
+         y2="173.19901"
+         id="line3429"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <line
+         x1="242.162"
+         y1="159.11501"
+         x2="232.89101"
+         y2="157.524"
+         id="line3431"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <line
+         x1="231.53101"
+         y1="173.97301"
+         x2="222.25999"
+         y2="172.381"
+         id="line3433"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <line
+         x1="231.66701"
+         y1="172.47301"
+         x2="222.396"
+         y2="170.882"
+         id="line3435"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <line
+         x1="233.03"
+         y1="172.064"
+         x2="223.759"
+         y2="170.47301"
+         id="line3437"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <line
+         x1="233.03"
+         y1="170.29201"
+         x2="223.759"
+         y2="168.701"
+         id="line3439"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <line
+         x1="234.392"
+         y1="169.883"
+         x2="225.12199"
+         y2="168.29201"
+         id="line3441"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <line
+         x1="234.80099"
+         y1="168.248"
+         x2="225.53101"
+         y2="166.65601"
+         id="line3443"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <line
+         x1="236.02901"
+         y1="167.97501"
+         x2="226.758"
+         y2="166.383"
+         id="line3445"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.25" />
+      <line
+         x1="236.02901"
+         y1="165.79401"
+         x2="226.758"
+         y2="164.203"
+         id="line3447"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <line
+         x1="237.528"
+         y1="165.24899"
+         x2="228.257"
+         y2="163.658"
+         id="line3449"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <line
+         x1="237.39101"
+         y1="163.614"
+         x2="228.121"
+         y2="162.022"
+         id="line3451"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <line
+         x1="238.754"
+         y1="163.20399"
+         x2="229.48399"
+         y2="161.61301"
+         id="line3453"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <line
+         x1="238.89"
+         y1="161.433"
+         x2="229.62"
+         y2="159.841"
+         id="line3455"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <line
+         x1="240.66299"
+         y1="159.388"
+         x2="231.392"
+         y2="157.797"
+         id="line3457"
+         style="fill:none;stroke:#5a3d1c;stroke-width:0.5" />
+      <ellipse
+         cx="220.356"
+         cy="160.47701"
+         rx="2.312"
+         ry="6.1430001"
+         id="ellipse3459"
+         sodipodi:cx="220.356"
+         sodipodi:cy="160.47701"
+         sodipodi:rx="2.312"
+         sodipodi:ry="6.1430001"
+         style="stroke:#59421f;stroke-width:0.5" />
+      <g
+         id="g3461">
+        <ellipse
+           cx="226.59801"
+           cy="159.799"
+           rx="2.0669999"
+           ry="2.5650001"
+           id="ellipse3463"
+           sodipodi:cx="226.59801"
+           sodipodi:cy="159.799"
+           sodipodi:rx="2.0669999"
+           sodipodi:ry="2.5650001"
+           style="stroke:#9e7846;stroke-width:0.25" />
+        <line
+           x1="224.399"
+           y1="159.479"
+           x2="228.62601"
+           y2="160.271"
+           id="line3465"
+           style="fill:none;stroke:#9e7846;stroke-width:0.25" />
+        <line
+           x1="226.59801"
+           y1="157.233"
+           x2="226.59801"
+           y2="162.364"
+           id="line3467"
+           style="fill:none;stroke:#9e7846;stroke-width:0.25" />
+      </g>
+    </g>
+    <line
+       x1="158.18286"
+       y1="603.74243"
+       x2="154.37488"
+       y2="597.87927"
+       id="line3469"
+       style="fill:none;stroke:#3f3f3f;stroke-width:0.19290318"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="154.57774"
+       y1="597.7334"
+       x2="158.70016"
+       y2="603.56244"
+       id="line3471"
+       style="fill:none;stroke:#3f3f3f;stroke-width:0.19290318"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="154.78784"
+       y1="597.62427"
+       x2="159.12019"
+       y2="603.36584"
+       id="line3473"
+       style="fill:none;stroke:#3f3f3f;stroke-width:0.19290318"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="154.97173"
+       y1="597.60278"
+       x2="159.40898"
+       y2="603.19116"
+       id="line3475"
+       style="fill:none;stroke:#3f3f3f;stroke-width:0.19290318"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="143.76027"
+       y1="599.85132"
+       x2="144.41682"
+       y2="596.55469"
+       id="line3477"
+       style="fill:none;stroke:#3f3f3f;stroke-width:0.19290318"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="144.36421"
+       y1="599.76398"
+       x2="144.70555"
+       y2="596.42346"
+       id="line3479"
+       style="fill:none;stroke:#3f3f3f;stroke-width:0.19290318"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="144.96808"
+       y1="599.58905"
+       x2="144.81055"
+       y2="596.38"
+       id="line3481"
+       style="fill:none;stroke:#3f3f3f;stroke-width:0.19290318"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="145.04672"
+       y1="596.2926"
+       x2="145.49323"
+       y2="599.47961"
+       id="line3483"
+       style="fill:none;stroke:#3f3f3f;stroke-width:0.19290318"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 158.66039,583.69861 C 158.66039,583.69861 158.18438,586.42493 157.39104,586.64481 C 156.59773,586.86465 154.7466,586.90865 154.7466,586.90865 C 154.7466,586.90865 152.89549,586.99662 153.05415,584.0064 L 158.66039,583.69861 z"
+       id="path3498"
+       style="fill:url(#XMLID_22_);stroke:#8c8c8c;stroke-width:0.09645154"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 160.24704,588.44775 L 153.21283,588.8875 L 151.78482,593.37284 L 160.82875,593.10902 C 160.82875,593.10902 158.44883,590.73438 160.24704,588.44775 z"
+       id="path3513"
+       style="fill:url(#XMLID_23_);stroke:#8c8c8c;stroke-width:0.09645154"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 155.71637,598.35653 C 155.71637,598.35653 154.44702,592.08283 155.08168,589.26847 C 155.71637,586.45413 155.92789,585.22287 155.92789,585.22287 L 142.10625,585.98503 C 142.10625,585.98503 138.15729,590.91013 139.92019,596.77326 C 139.92019,596.77326 142.52951,596.89054 144.92708,596.89054 C 147.32461,596.89054 149.86324,596.53877 151.55568,597.24237 C 153.24811,597.94595 155.4341,598.64953 155.4341,598.64953 L 155.71637,598.35653 z"
+       id="path3528"
+       style="fill:url(#XMLID_24_);stroke:#8c8c8c;stroke-width:0.09645154"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 155.71637,598.35653 C 155.71637,598.35653 154.44702,592.08283 155.08168,589.26847 C 155.71637,586.45413 155.92789,585.22287 155.92789,585.22287 L 142.10625,585.98503 C 142.10625,585.98503 138.15729,590.91013 139.92019,596.77326 C 139.92019,596.77326 142.52951,596.89054 144.92708,596.89054 C 147.32461,596.89054 149.86324,596.53877 151.55568,597.24237 C 153.24811,597.94595 155.4341,598.64953 155.4341,598.64953 L 155.71637,598.35653 z"
+       id="path3545"
+       style="opacity:0.67000002;fill:url(#XMLID_25_);stroke:#8c8c8c;stroke-width:0.09645154"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="216.738,82 149.738,89 147.404,88.667 147.071,92.333 216.405,86.333 216.738,82 "
+       id="polygon3547"
+       style="fill:#694e30"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 140.41373,600.11545 L 140.55481,570.56499 L 140.83681,569.86142 L 141.33038,569.97871 L 142.81129,599.9983 L 144.1511,599.93975 L 144.22154,600.81923 C 144.22154,600.81923 141.36552,601.14162 140.94244,601.31751 L 140.41373,600.11545 z"
+       id="path3549"
+       style="fill:#694e30"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 143.11255,600.33798 L 143.19907,599.9983 L 147.08577,599.0773 L 147.00896,600.68922 C 147.00896,600.68922 145.30066,600.76894 143.97634,600.86477 C 142.652,600.96063 143.11255,600.33798 143.11255,600.33798 z"
+       id="path3551"
+       style="fill:#691714"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 142.50346,586.74737 C 142.26396,586.74737 142.50346,586.04379 142.50346,586.04379 L 142.61117,584.8711 L 142.29188,584.8711 L 142.29188,583.63984 L 142.21196,582.70179 L 142.61093,581.93966 C 142.61093,581.93966 142.93022,581.88104 142.13198,581.64636 C 141.33378,581.41196 141.65301,580.88423 141.65301,580.88423 L 141.19987,580.71782 L 141.19987,580.70839 L 141.18697,580.71307 L 141.17405,580.70839 L 141.17405,580.71782 L 140.72088,580.88423 C 140.72088,580.88423 141.04018,581.41196 140.24192,581.64636 C 139.44377,581.88085 139.76301,581.93966 139.76301,581.93966 L 140.1622,582.70179 L 140.08247,583.63984 L 140.08247,584.8711 L 139.76323,584.8711 L 140.08247,586.04379 C 140.08247,586.04379 140.32194,586.92323 140.08247,586.92323 C 139.84298,586.92323 139.416,587.39238 139.416,587.39238 L 143.38145,587.21644 C 143.38145,587.21644 142.74295,586.74737 142.50346,586.74737 z"
+       id="path3553"
+       style="fill:#5b3f23"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="142.404,0.667 149.404,171.333 151.237,171.333 153.25,176.498 146.201,177.519 140.071,0 142.404,0.667 "
+       id="polygon3555"
+       style="fill:#4d351b"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 134.56068,588.21311 C 134.56068,588.21311 147.39505,587.74399 147.60658,587.6854 C 147.81815,587.62684 147.88885,587.04044 147.88885,587.04044 L 147.60658,586.80593 L 135.0544,587.5095 L 134.49021,587.56808 L 134.2786,587.86131 L 134.56068,588.21311 z"
+       id="path3557"
+       style="fill:#694e30"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polygon
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       points="160.405,25.667 122.738,33 120.404,34.333 121.404,36 124.404,36 156.738,29 159.738,28 160.405,25.667 "
+       id="polygon3559"
+       style="fill:#694e30"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 153.45974,575.25557 C 153.45974,575.25557 153.48253,578.89452 152.68391,579.94621 C 152.47241,580.22469 152.19039,580.63518 152.19039,580.63518 C 152.19039,580.63518 152.03169,580.86964 151.48526,581.2362 C 150.92022,581.61525 150.14528,581.2948 150.14528,581.2948 L 149.86324,581.00154 C 149.86324,581.00154 150.00438,581.70519 149.65167,581.93966 C 149.29907,582.17411 148.20112,582.80047 147.32461,581.93966 C 146.93662,581.55844 146.7075,581.49991 146.7075,581.49991 C 146.7075,581.49991 146.92243,581.9451 146.31082,582.09353 C 145.98251,582.17323 145.63215,582.18885 145.20907,581.77835 C 144.78597,581.36776 143.9397,580.00479 143.9397,580.00479 L 143.09354,577.48361 L 153.45974,575.25557 z"
+       id="path3574"
+       style="fill:url(#XMLID_26_);stroke:#8c8c8c;stroke-width:0.09645154"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 134.22829,588.00891 L 147.783,587.33365 C 147.783,587.33365 146.0428,593.66374 146.4094,594.17017 C 146.77562,594.67659 136.15151,594.50771 136.15151,594.50771 C 136.15151,594.50771 133.12903,593.07292 134.22829,588.00891 z"
+       id="path3589"
+       style="fill:url(#XMLID_27_);stroke:#8c8c8c;stroke-width:0.09645154"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 137.09927,576.25219 C 137.09927,576.25219 136.26638,579.02259 137.16976,580.06332 C 138.0731,581.10413 138.60218,581.40082 138.86223,581.41196 C 139.62019,581.35689 140.13598,581.01614 140.13598,581.01614 C 140.13598,581.01614 140.63844,581.15918 141.41202,581.1115 C 141.98819,581.07614 142.01351,581.11504 142.44993,580.71927 C 142.44993,580.71927 143.67974,581.23601 144.22617,580.75232 C 144.74619,580.292 145.63215,578.53903 145.42058,577.77669 C 145.20907,577.01432 144.78597,575.72457 144.78597,575.72457 L 144.36287,574.9624 L 137.09927,576.25219 z"
+       id="path3604"
+       style="fill:url(#XMLID_28_);stroke:#8c8c8c;stroke-width:0.09645154"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 139.50533,581.58783 C 139.50533,581.58783 140.82755,581.41196 141.19501,581.41196 C 141.56228,581.41196 142.73769,581.64636 142.73769,581.64636 L 142.81106,582.05677 L 142.44377,582.11532 C 142.44377,582.11532 142.00296,582.05677 141.04776,582.05677 C 140.09261,582.05677 139.79896,582.11532 139.79896,582.11532 L 139.50533,581.58783 z"
+       id="path3606"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 163.15591,598.8256 C 163.15591,598.8256 163.05017,597.13262 163.55256,596.93476 C 164.05499,596.73684 165.23337,596.1272 165.65247,595.94621 C 166.03937,595.77911 166.435,595.48361 166.435,595.48361 C 166.435,595.48361 166.22371,595.1891 165.84564,594.96728 C 165.39586,594.70367 164.76902,594.18634 160.98746,594.03242 C 157.20597,593.87853 156.75636,594.01047 156.75636,594.01047 L 156.75636,594.23036 C 156.75636,594.23036 161.30473,593.98848 163.28815,594.42819 C 165.27146,594.8679 164.80883,594.74343 165.37132,594.99653 C 165.93384,595.24969 166.05081,595.43465 166.05081,595.43465 C 166.05081,595.43465 164.83865,596.02799 163.66724,596.50114 C 163.3628,596.62428 162.86498,597.17655 162.75927,597.59433 C 162.65344,598.01206 162.54769,598.73764 162.54769,598.73764 L 163.15591,598.8256 z"
+       id="path3608"
+       style="fill:#694e30"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 119.25824,628.43448 C 119.25824,628.43448 119.36401,629.57781 116.61377,629.66572 C 113.86356,629.75365 113.7578,629.05013 113.22894,628.52238 C 112.70002,627.99475 112.70002,627.64293 112.70002,627.64293 L 115.02713,626.58751 L 119.25824,626.4117 L 119.25824,628.43448 z"
+       id="path3610"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 116.93109,627.18301 L 116.93109,628.63603 C 116.93109,628.63603 115.34442,628.63603 115.02713,628.85964 C 114.70983,629.08321 114.92132,627.74195 114.92132,627.74195 L 116.93109,627.18301 z"
+       id="path3625"
+       style="fill:url(#XMLID_29_)"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 114.86151,628.11295 L 114.98229,626.64913 L 119.29736,626.31918 L 119.25824,628.43431 C 119.25824,628.43431 118.51779,627.55479 117.67156,627.46684 C 116.82533,627.37892 115.97911,627.37892 115.66181,627.55479 C 115.34442,627.7307 114.86151,628.11295 114.86151,628.11295 z"
+       id="path3640"
+       style="fill:url(#XMLID_30_)"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       cx="20.570999"
+       cy="338.99899"
+       rx="9.5"
+       ry="8.5"
+       id="ellipse3647"
+       style="fill:url(#XMLID_31_)"
+       sodipodi:cx="20.570999"
+       sodipodi:cy="338.99899"
+       sodipodi:rx="9.5"
+       sodipodi:ry="8.5"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       cx="24.988001"
+       cy="253.66701"
+       rx="10.583"
+       ry="10.5"
+       id="ellipse3654"
+       style="fill:url(#XMLID_32_)"
+       sodipodi:cx="24.988001"
+       sodipodi:cy="253.66701"
+       sodipodi:rx="10.583"
+       sodipodi:ry="10.5"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 117.35424,615.09596 C 117.33267,614.76793 117.27092,614.61801 116.60744,614.54854 C 115.944,614.47913 115.63895,614.81646 115.66181,614.92005 C 115.68463,615.02371 115.66181,616.23928 115.66181,616.23928 L 117.35466,616.08333 C 117.35466,616.08314 117.37582,615.42398 117.35424,615.09596 z"
+       id="path3669"
+       style="fill:url(#XMLID_33_)"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 167.21057,614.56829 C 167.21057,614.56829 167.1048,613.42495 169.855,613.33705 C 172.60523,613.24908 172.79263,613.92678 173.32154,614.45446 C 173.85043,614.98217 173.83458,615.34904 173.83458,615.34904 L 171.44168,616.4152 L 167.21057,616.59107 L 167.21057,614.56829 L 167.21057,614.56829 z"
+       id="path3671"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 169.5377,615.81959 L 169.5377,614.36653 C 169.5377,614.36653 171.12435,614.36653 171.44168,614.14298 C 171.759,613.91939 171.54746,615.2606 171.54746,615.2606 L 169.5377,615.81959 z"
+       id="path3686"
+       style="fill:url(#XMLID_34_)"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 171.64667,614.92005 L 171.54089,616.4152 L 167.21311,616.68416 L 167.21057,614.56829 C 167.21057,614.56829 167.951,615.44777 168.79722,615.53568 C 169.64345,615.62364 170.48968,615.62364 170.80701,615.44777 C 171.12435,615.2719 171.64667,614.92005 171.64667,614.92005 z"
+       id="path3701"
+       style="fill:url(#XMLID_35_)"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       cx="280.237"
+       cy="247.16701"
+       rx="9.5"
+       ry="8.5"
+       id="ellipse3708"
+       style="fill:url(#XMLID_36_)"
+       sodipodi:cx="280.237"
+       sodipodi:cy="247.16701"
+       sodipodi:rx="9.5"
+       sodipodi:ry="8.5"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       cx="277.82001"
+       cy="331.49899"
+       rx="10.583"
+       ry="10.5"
+       id="ellipse3723"
+       style="fill:url(#XMLID_37_)"
+       sodipodi:cx="277.82001"
+       sodipodi:cy="331.49899"
+       sodipodi:rx="10.583"
+       sodipodi:ry="10.5"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 169.11456,627.90681 C 169.11456,627.90681 169.19157,628.27703 169.855,628.34655 C 170.51844,628.416 170.80701,628.0827 170.80701,628.0827 L 170.80701,626.76349 L 169.11456,627.02732 L 169.11456,627.90681 z"
+       id="path3738"
+       style="fill:url(#XMLID_38_)"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 171.44168,616.4152 L 165.8355,616.85491 L 141.78886,616.15135 L 139.77909,616.5031 L 138.61555,616.67902 L 137.0289,615.88748 L 133.43876,615.97281 L 126.98,615.79956 L 122.22002,615.44777 L 120.6333,616.23928 C 120.6333,616.23928 120.6333,616.59107 120.6333,616.85491 C 120.6333,617.11871 119.22287,617.32402 119.22287,617.32402 L 119.89289,615.97545 C 119.89289,615.97545 117.98891,616.0634 115.66181,616.23928 C 113.33468,616.4152 113.12314,617.47056 113.12314,617.47056 L 112.80749,627.62501 L 115.02713,626.58751 L 119.36401,626.14784 L 125.07599,626.58751 L 127.08574,626.23575 L 128.24935,626.05987 L 129.83602,626.85139 L 133.42612,626.76626 L 139.88483,626.93937 L 165.24269,627.31856 L 167.38699,626.76349 C 167.38699,626.76349 167.38699,626.4117 167.38699,626.14784 C 167.38699,625.88396 165.97636,625.6789 165.97636,625.6789 L 166.5759,627.02732 C 166.5759,627.02732 168.47985,626.93937 170.80701,626.76349 C 173.13413,626.58751 173.34566,625.53222 173.34566,625.53222 L 173.76875,615.35982 L 171.44168,616.4152 z"
+       id="path3753"
+       style="fill:url(#XMLID_39_)"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 171.44168,616.4152 L 165.8355,616.85491 L 141.78886,616.15135 L 139.77909,616.5031 L 138.61555,616.67902 L 137.0289,615.88748 L 133.43876,615.97281 L 126.98,615.79956 L 122.22002,615.44777 L 120.6333,616.23928 C 120.6333,616.23928 120.6333,616.59107 120.6333,616.85491 C 120.6333,617.11871 119.22287,617.32402 119.22287,617.32402 L 119.89289,615.97545 C 119.89289,615.97545 117.98891,616.0634 115.66181,616.23928 C 113.33468,616.4152 113.12314,617.47056 113.12314,617.47056 L 112.80749,627.62501 L 115.02713,626.58751 L 119.36401,626.14784 L 125.07599,626.58751 L 127.08574,626.23575 L 128.24935,626.05987 L 129.83602,626.85139 L 133.42612,626.76626 L 139.88483,626.93937 L 165.24269,627.31856 L 167.38699,626.76349 C 167.38699,626.76349 167.38699,626.4117 167.38699,626.14784 C 167.38699,625.88396 165.97636,625.6789 165.97636,625.6789 L 166.5759,627.02732 C 166.5759,627.02732 168.47985,626.93937 170.80701,626.76349 C 173.13413,626.58751 173.34566,625.53222 173.34566,625.53222 L 173.76875,615.35982 L 171.44168,616.4152 z"
+       id="path3768"
+       style="opacity:0.56999972;fill:url(#XMLID_40_)"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(0.2115548,0,0,0.1758955,111.20414,569.86142)"
+       id="g3770"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="M 48.4,306.378 C 48.533,306.256 48.667,306.134 48.671,306.008 C 48.675,305.882 48.04,305.485 43.095,302.244 C 38.53,299.268 36.571,295.679 36.677,292.215 C 36.861,286.234 41.405,281.456 50.092,274.411 L 50.791,274.81 C 50.658,274.932 50.525,275.054 50.521,275.18 C 50.517,275.306 51.152,275.704 56.163,278.883 C 59.716,281.134 62.907,284.636 62.789,288.478 C 62.633,293.579 58.324,299.12 49.1,306.778 L 48.4,306.378 z M 46.89,279.67 C 45.404,279.625 41.239,282.586 41.085,287.623 C 40.759,298.265 50.641,300.773 51.74,300.808 C 54.906,300.905 58.263,296.848 58.41,292.062 C 58.663,283.813 48.829,279.73 46.89,279.67 z"
+         id="path3772" />
+      <path
+         d="M 64.886,281.167 C 66.755,279.271 68.772,276.748 70.119,275.024 C 73.646,278.094 74.875,280.212 74.717,285.376 C 74.703,285.817 74.628,286.192 74.614,286.634 L 74.743,286.638 C 77.748,281.435 79.149,280.029 83.429,275.432 L 84.128,275.832 C 84.062,275.893 83.993,276.017 83.989,276.143 C 83.939,277.781 92.07,282.568 91.865,289.243 C 91.63,296.925 81.488,304.998 79.388,308.085 L 78.624,307.683 C 78.759,307.499 78.83,307.312 78.839,306.996 C 78.856,306.43 76.131,304.644 73.714,303.309 C 73.6,307.025 73.169,310.541 73.063,314.004 C 73.011,315.704 73.024,317.405 72.972,319.107 C 70.674,320.234 69.555,320.893 67.441,322.341 C 68.631,317.272 69.219,306.512 69.556,301.858 C 69.362,301.852 69.106,301.782 68.848,301.774 C 68.331,301.758 67.533,302.49 67.261,302.922 L 66.497,302.521 C 67.442,301.226 68.581,299.938 69.779,298.839 C 69.926,296.133 70.207,293.306 70.28,290.913 C 70.436,285.812 69.502,280.426 67.628,280.369 C 67.047,280.351 66.254,280.894 65.651,281.569 L 64.886,281.167 z M 80.72,281.526 C 78.329,281.453 74.255,289.901 73.971,299.156 C 76.912,300.255 80.06,303.061 81.287,303.099 C 82.903,303.149 87.747,296.994 87.859,293.341 C 88.008,288.495 82.464,281.58 80.72,281.526 z"
+         id="path3774" />
+      <path
+         d="M 114.615,298.134 C 111.552,301.002 107.428,304.72 104.339,308.47 L 103.639,308.071 L 103.909,307.702 C 100.421,305.452 93.864,299.957 94.08,292.903 C 94.356,283.899 105.278,277.804 106.622,276.144 C 108.78,277.471 110.782,279.675 112.303,282.811 L 113.223,282.334 L 113.652,283.104 C 108.908,285.984 107.191,287.129 99.199,292.557 L 99.949,289.176 L 100.401,289.19 C 100.452,289.632 100.644,289.702 100.967,289.711 C 101.484,289.727 106.767,286.17 106.788,285.478 C 106.836,283.904 105.247,280.893 104.02,280.855 C 101.758,280.786 98.212,284.648 98.083,288.867 C 97.825,297.305 105.351,302.83 107.096,302.884 C 107.483,302.896 107.879,302.656 108.742,301.926 L 113.731,297.415 L 114.615,298.134 z"
+         id="path3776" />
+      <path
+         d="M 133.138,282.439 C 129.98,286.314 125.855,292.175 124.612,296.864 C 124.1,298.802 123.815,303.898 123.688,305.911 C 121.915,306.803 120.401,307.639 118.746,308.911 C 119.917,304.473 120.823,289.688 121.186,284.153 C 119.978,283.485 119.289,282.77 118.407,281.987 L 116.008,284.309 L 115.127,283.526 C 117.523,281.33 119.323,279.557 121.342,276.972 C 122.837,278.846 124.415,280.092 126.522,280.976 C 125.581,282.144 125.056,286.603 124.012,293.253 L 124.141,293.257 C 126.148,288.97 133.771,278.677 136.213,277.05 L 136.842,277.636 L 136.502,278.193 L 141.618,282.195 L 142.07,282.209 L 142.035,283.342 L 141.518,283.326 C 140.641,284.497 139.187,291.827 139.004,297.809 C 138.894,301.398 139.609,303.373 142.537,304.913 L 145.203,302.347 L 146.086,303.068 C 144.231,304.524 142.546,306.742 140.196,309.569 C 135.95,306.728 134.913,304.68 135.094,298.76 C 135.187,295.738 136.061,288.326 136.615,285.003 L 133.138,282.439 z"
+         id="path3778" />
+      <path
+         d="M 188.337,302.346 L 189.219,303.13 L 182.256,310.858 C 179.191,307.487 178.51,304.378 178.352,301.095 L 178.223,301.091 C 176.053,304.365 173.15,308.373 169.592,310.47 L 169.087,310.076 L 169.555,309.586 C 165.772,306.444 162.658,300.425 162.816,295.261 C 163,289.28 166.129,286.35 176.981,278.3 C 181.266,281.961 183.494,283.164 185.942,283.427 C 183.274,286.118 182.534,291.265 182.37,296.616 C 182.229,301.214 183.1,304.455 185.532,305.285 L 188.337,302.346 z M 173.001,304.776 C 174.874,304.834 177.459,300.69 177.96,294.907 C 178.458,289.186 178.779,287.116 179.526,286.005 C 176.903,285.042 174.829,283.088 173.924,283.06 C 172.825,283.027 167.372,285.822 167.17,292.433 C 166.92,300.62 171.192,304.72 173.001,304.776 z"
+         id="path3780" />
+      <path
+         d="M 207.244,284.71 C 204.086,288.584 199.962,294.445 198.719,299.135 C 198.207,301.073 197.921,306.169 197.795,308.183 C 196.022,309.074 194.509,309.91 192.853,311.183 C 194.024,306.745 194.929,291.959 195.293,286.424 C 194.084,285.757 193.395,285.042 192.513,284.259 L 190.115,286.58 L 189.234,285.797 C 191.63,283.602 193.429,281.829 195.449,279.243 C 196.943,281.117 198.522,282.363 200.629,283.247 C 199.689,284.415 199.163,288.875 198.119,295.524 L 198.248,295.528 C 200.255,291.24 207.878,280.947 210.321,279.32 L 210.949,279.906 L 210.608,280.463 L 215.724,284.465 L 216.176,284.479 L 216.141,285.613 L 215.625,285.596 C 214.747,286.767 213.295,294.097 213.111,300.079 C 213.001,303.668 213.716,305.644 216.644,307.183 L 219.309,304.618 L 220.193,305.339 C 218.338,306.794 216.653,309.012 214.302,311.839 C 210.056,308.998 209.02,306.95 209.2,301.031 C 209.293,298.008 210.167,290.597 210.721,287.273 L 207.244,284.71 z"
+         id="path3782" />
+      <path
+         d="M 238.32,285.663 C 235.162,289.538 231.038,295.399 229.795,300.088 C 229.283,302.026 228.997,307.123 228.871,309.136 C 227.098,310.027 225.585,310.863 223.929,312.136 C 225.1,307.698 226.005,292.913 226.369,287.377 C 225.16,286.71 224.471,285.995 223.59,285.212 L 221.191,287.533 L 220.31,286.75 C 222.706,284.555 224.505,282.782 226.525,280.196 C 228.019,282.07 229.598,283.316 231.705,284.2 C 230.765,285.369 230.239,289.828 229.195,296.477 L 229.324,296.481 C 231.331,292.193 238.954,281.901 241.397,280.273 L 242.025,280.859 L 241.685,281.416 L 246.8,285.417 L 247.252,285.431 L 247.217,286.565 L 246.701,286.549 C 245.823,287.72 244.371,295.05 244.187,301.031 C 244.078,304.62 244.792,306.596 247.72,308.135 L 250.385,305.57 L 251.269,306.291 C 249.414,307.746 247.729,309.965 245.378,312.791 C 241.132,309.951 240.096,307.902 240.276,301.983 C 240.369,298.96 241.243,291.549 241.797,288.226 L 238.32,285.663 z"
+         id="path3784" />
+      <path
+         d="M 263.544,312.971 C 263.677,312.849 263.811,312.727 263.815,312.601 C 263.819,312.475 263.184,312.078 258.239,308.838 C 253.674,305.861 251.715,302.272 251.821,298.809 C 252.004,292.827 256.548,288.049 265.235,281.004 L 265.934,281.403 C 265.801,281.525 265.667,281.647 265.664,281.773 C 265.66,281.899 266.294,282.297 271.306,285.476 C 274.859,287.728 278.05,291.23 277.932,295.071 C 277.776,300.172 273.467,305.713 264.244,313.371 L 263.544,312.971 z M 262.035,286.263 C 260.55,286.218 256.385,289.179 256.23,294.216 C 255.904,304.859 265.786,307.367 266.883,307.401 C 270.05,307.498 273.407,303.441 273.554,298.655 C 273.807,290.406 263.973,286.323 262.035,286.263 z"
+         id="path3786" />
+    </g>
+    <line
+       x1="135.8831"
+       y1="587.88873"
+       x2="135.86877"
+       y2="587.4635"
+       id="line3788"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="137.62843"
+       y1="587.77917"
+       x2="137.61406"
+       y2="587.35339"
+       id="line3790"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="139.47951"
+       y1="587.69128"
+       x2="139.46518"
+       y2="587.26538"
+       id="line3792"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="141.14555"
+       y1="587.60333"
+       x2="141.1311"
+       y2="587.17767"
+       id="line3794"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="142.99663"
+       y1="587.49316"
+       x2="142.98227"
+       y2="587.06732"
+       id="line3796"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="145.08568"
+       y1="587.38324"
+       x2="145.07127"
+       y2="586.95758"
+       id="line3798"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="147.3864"
+       y1="587.29523"
+       x2="147.37204"
+       y2="586.86963"
+       id="line3800"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="137.28036"
+       y1="576.16473"
+       x2="137.26611"
+       y2="575.65704"
+       id="line3802"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="144.38501"
+       y1="574.9693"
+       x2="144.37074"
+       y2="574.54413"
+       id="line3804"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="141.90669"
+       y1="575.35425"
+       x2="141.8925"
+       y2="574.92865"
+       id="line3806"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="139.51085"
+       y1="575.7525"
+       x2="139.4966"
+       y2="575.29938"
+       id="line3808"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="152.35399"
+       y1="575.53546"
+       x2="152.33981"
+       y2="575.21997"
+       id="line3810"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="149.56136"
+       y1="576.1286"
+       x2="149.5472"
+       y2="575.77209"
+       id="line3812"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="146.86853"
+       y1="576.71942"
+       x2="146.85408"
+       y2="576.29407"
+       id="line3814"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="158.48517"
+       y1="583.70923"
+       x2="158.47078"
+       y2="583.42291"
+       id="line3816"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="156.76674"
+       y1="583.82678"
+       x2="156.75224"
+       y2="583.51794"
+       id="line3818"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="153.39627"
+       y1="583.99158"
+       x2="153.3821"
+       y2="583.81335"
+       id="line3820"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="154.78407"
+       y1="583.95032"
+       x2="154.76965"
+       y2="583.66931"
+       id="line3822"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="160.16531"
+       y1="588.4613"
+       x2="160.15114"
+       y2="588.03589"
+       id="line3824"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="158.43269"
+       y1="588.51526"
+       x2="158.4183"
+       y2="588.08942"
+       id="line3826"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="156.5882"
+       y1="588.6637"
+       x2="156.57373"
+       y2="588.13013"
+       id="line3828"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="155.94101"
+       y1="585.20636"
+       x2="155.9268"
+       y2="584.40723"
+       id="line3830"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="152.63545"
+       y1="585.40436"
+       x2="152.62125"
+       y2="584.64368"
+       id="line3832"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="149.80591"
+       y1="585.58936"
+       x2="149.79182"
+       y2="584.94592"
+       id="line3834"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="146.71196"
+       y1="585.81104"
+       x2="146.69781"
+       y2="585.19867"
+       id="line3836"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="143.96173"
+       y1="585.98529"
+       x2="143.94759"
+       y2="585.42981"
+       id="line3838"
+       style="fill:none;stroke:#000000;stroke-width:0.09645154;stroke-linejoin:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 136.71194,614.62685 C 136.71194,614.62685 136.8679,614.48083 137.16378,614.2142 C 137.30705,614.08526 137.5753,613.98202 137.64534,613.85083 C 137.85391,613.45922 138.0162,613.10252 138.0162,613.10252 C 138.0162,613.10252 137.87508,613.77675 138.96819,613.89407 C 138.96819,613.89407 138.27597,613.77727 137.78707,614.01139 C 137.29813,614.2455 136.71194,614.62685 136.71194,614.62685 z"
+       id="path3840"
+       style="fill:#715228"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 137.32862,615.25707 C 137.32862,615.25707 136.50884,615.87271 135.30128,615.85815 C 134.09376,615.84351 133.30042,615.29386 133.30042,615.29386 C 133.30042,615.29386 133.3797,614.92005 133.14171,614.61226 C 132.90374,614.30443 132.42776,613.75479 132.29553,613.75479 C 132.1633,613.75479 131.63439,613.84273 131.63439,613.84273 L 132.58639,613.0072 C 132.58639,613.0072 132.83879,613.73173 132.93022,613.95262 C 133.0271,614.18705 133.14171,614.4803 133.53844,614.76617 C 133.93509,615.05202 134.38466,615.35982 134.67554,615.31584 C 134.96641,615.2719 134.88709,615.35982 135.09864,614.94208 C 135.31022,614.52429 135.17793,611.46072 135.17793,611.46072 L 135.15148,609.7751 L 135.30128,609.74506 L 135.33662,614.78815 C 135.33662,614.78815 135.40707,615.31584 135.77727,615.35982 C 136.14753,615.40378 136.50019,615.38177 136.8969,615.22789 C 136.8969,615.22789 137.41684,615.02262 137.52262,614.92005 C 137.6284,614.81753 137.32862,615.25707 137.32862,615.25707 z"
+       id="path3842"
+       style="fill:#715228"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 140.74757,600.73648 C 138.89414,600.92068 137.26453,601.05369 136.42209,601.05369 C 133.68225,601.05369 132.08418,601.05369 130.31473,600.70184 C 128.54528,600.3501 128.08875,599.76364 130.71433,599.41186 C 133.33998,599.06007 135.50904,599.17741 135.50904,599.17741"
+       id="path3844"
+       style="fill:none;stroke:#8c6631;stroke-width:0.38580635"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="129.76553"
+       y1="600.70184"
+       x2="129.76553"
+       y2="602.3996"
+       id="line3846"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="130.91153"
+       y1="600.83344"
+       x2="130.91153"
+       y2="602.67773"
+       id="line3848"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="132.02191"
+       y1="600.95087"
+       x2="132.02191"
+       y2="602.82733"
+       id="line3850"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="133.27371"
+       y1="601.05371"
+       x2="133.27371"
+       y2="602.92963"
+       id="line3852"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="134.56061"
+       y1="601.06818"
+       x2="134.56061"
+       y2="602.94434"
+       id="line3854"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="128.77612"
+       y1="599.9826"
+       x2="128.77612"
+       y2="601.94135"
+       id="line3856"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 134.59845,603.0415 C 132.84388,603.02108 131.56502,602.9398 130.18612,602.61459 C 129.3352,602.41371 128.77633,602.15109 128.6923,601.88373"
+       id="path3858"
+       style="fill:none;stroke:#523c26;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="129.51186"
+       y1="599.69659"
+       x2="129.51186"
+       y2="601.35754"
+       id="line3860"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="135.36745"
+       y1="599.07471"
+       x2="135.36745"
+       y2="600.8465"
+       id="line3862"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="134.09544"
+       y1="599.30792"
+       x2="134.09544"
+       y2="600.78198"
+       id="line3864"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="132.79085"
+       y1="599.38123"
+       x2="132.79085"
+       y2="600.85535"
+       id="line3866"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="130.44591"
+       y1="599.55695"
+       x2="130.44591"
+       y2="601.14868"
+       id="line3868"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <line
+       x1="131.55676"
+       y1="599.48383"
+       x2="131.55676"
+       y2="600.95776"
+       id="line3870"
+       style="fill:none;stroke:#8c6631;stroke-width:0.19290318;stroke-linecap:round"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 129.41281,602.92979 C 129.41281,602.92979 128.93705,602.33275 128.41813,602.25187 C 127.89921,602.17096 126.52174,601.81564 126.52174,601.81564 L 128.6538,603.00562 L 129.41281,602.92979 z"
+       id="path3872"
+       style="fill:#d1bb6f"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 125.34067,603.86784 L 125.38107,602.97199 L 126.87739,604.13521 C 126.87739,604.13521 126.21902,604.07613 126.17332,604.07113 C 125.83268,604.03443 125.34067,603.86784 125.34067,603.86784 z"
+       id="path3874"
+       style="fill:#ac8c55"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="M 159.37751,601.31806 C 159.37751,601.31806 160.51364,600.86703 160.91278,600.64327 C 161.31197,600.41955 161.65534,600.20339 161.65534,600.20339 C 161.65534,600.20339 161.87808,600.42731 161.80385,600.73598 C 161.72962,601.04471 161.68329,601.52331 160.55995,602.44954 C 159.43657,603.37584 158.5083,603.6923 158.09041,603.80047 C 157.6726,603.90866 157.55202,603.91619 157.55202,603.91619"
+       id="path3876"
+       style="fill:none;stroke:#59421f;stroke-width:0.09645154"
+       inkscape:export-filename="C:\openanno\openanno\content\gui\images\icons\hud\main\CoA.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
