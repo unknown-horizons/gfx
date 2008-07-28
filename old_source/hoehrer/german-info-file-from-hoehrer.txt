@@ -1,0 +1,55 @@
+Ich habe in vielen Dateien (z.B. mountain_oremine)
+mehrere Layer verwendet die man übereinander legen
+kann bzw. extra rendern muss .... hab damals lange
+herum gespielt um da was hinzukriegen dass man einfach
+reproduzieren kann. Weiß nicht ob das geklappt hat  ;) 
+Bis auf einen schnellen Test mit dem Kanonen-Modell
+haben auch keine der Modelle UV Maps.
+
+Kurze Beschreibung für die umfangreicheren Dateien:
+1) cannon
+cannon_10_x.blend ist die letzte Quelldatei die noch
+nicht 'finalisiert' wurde. Dass heißt der SubDivision
+Modifier wurde hier noch nicht angewandt.
+Bei cannon_10_y.blend und aufwärts ist das nicht mehr
+der Fall.
+
+2) mountain_oremine (mountain_oremine_17.blend)
+Layer 1 enthält den Basis-berg (es gibt ein paar alte
+Varianten im Layer 5.
+Layer 2 enthält das template (ich glaube minimal
+modifiziert)
+Layer3 enthält den Steinbruch.
+Layer 4 enthält eine Erzmiene mit Erzwagen (Wenn man
+mal ein paar Frames vorwärts geht sieht man einen
+Animationstest (allerdings nicht mit dem Wagen)
+Es sind auch 2 verschiedene Materialien für Erz und
+Kohle drin.
+
+Einfach die Layer extra rendern und mittels GIMP
+zusammenfügen (siehe text.xcf) wie gewünscht ... die
+Übergänge müssen noch etwas verfeinert werden. Da bin
+ich noch nicht dazu gekommen (Alpha-Verlauf?).
+Lizenzdatei ist in dem Archiv dabei.
+
+3) pier (pier_09.blend) und pier_stone
+(pier_stone_04.blend)
+Enthält meinen ersten Test mit Stegen (ausschließlich
+Inselrand).
+Da fehlt definitiv noch etwas Verbesserung.
+
+4) wood_planks
+Test einer Häuserfront mit Anno1602-artigem Logo und
+Straßenlaterne. 
+
+5) template
+Sollte eigentlich eine Vorlagedatei zum Rendern werden
+(mit den unterschiedlichen Gebäudegrößen
+eingezeichnet).
+Ich weiß aber nicht ob das überhaupt noch aktuell ist
+(bzw. jemals aktuell war).
+
+6) Alle anderen (wheel, steering_wheel, cannon,
+etc...)
+Alleine recht nutzlos, aber kann sicher irgendwo
+verwendet werden.

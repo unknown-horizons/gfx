@@ -1,0 +1,8 @@
+All models/meshes are made by me (Werner Höhrer) and are free to be used under one of the following licenses:
+* GNU GPL 2.0 (or higher)
+* Creative Commons BY-SA (2.x or 3.x)
+
+If you need any other information or licenses feel free to contact me at my adress bill_spam2 at yahoo DOT de)
+
+Should there be any reference images left inside the .blend files (altough I checked):
+Those are not my own and are under the copyright/licenses of their creators/owners.
