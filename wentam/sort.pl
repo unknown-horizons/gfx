@@ -11,9 +11,17 @@
 use v6;
 
 sub MAIN ($source-path, $destination-path, $frames-per-rotation) {
+    my $fpr = $frames-per-rotation;
+    my $fpr-characters = "$fpr".chars;
+
     for 1..4 -> $i1 {
-	for 1..$frames-per-rotation -> $i2 {
-	    my $image-number = $i1*$i2;
+	for 1..$fpr -> $i2 {
+
+	    my $image-number = (($i1*$fpr)-$fpr-1)+$i2;
+	    $image-number++;
+
+	
+	   
 	    
 	    # there's probably a better solution for this...
 	    my $current-folder;
@@ -27,8 +35,20 @@ sub MAIN ($source-path, $destination-path, $frames-per-rotation) {
 		$current-folder = 315;
 	    }
 	    
+
+	    # prefix the correct number of 0's
+	    my $image-number-string = ""~$i2-1~"";
+	    if ($image-number-string.chars < $fpr-characters) {
+		my $zero-count = $fpr-characters - $image-number-string.chars;
+		for 1..$zero-count -> $i3{
+		    $image-number-string = "0"~$image-number-string;
+		}
+	    }
+	    
+
 	    shell("mkdir -p $destination-path/$current-folder/");
-	    shell("cp $source-path/$image-number.png $destination-path/$current-folder/"~$i2-1~".png");
+	    say "copying $source-path/$image-number.png to $destination-path/$current-folder/$image-number-string.png";
+	    shell("cp $source-path/$image-number.png $destination-path/$current-folder/$image-number-string.png");
 	}
     }
 }
