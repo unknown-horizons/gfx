@@ -1,0 +1,1 @@
+The animation of the mointain mine was broken since blender 2.5x. I also descibed it in the UH-wiki. So it was rendered with blender 2.4x.
