@@ -1,2 +1,3 @@
-If you want to upload content, please create a file called LICENSE and mention there what is your work and what did you use from other sources and the sources self.
-An URL should be enough. This should be independant from the license artwork, please mention also Public Domain and Creative Commons Attribution Sharealike 3.0 Unported licensed artwork you used.
+1. Make new art or modify some
+2. Take care of CONTRIBUTING.md!
+3. Push changes :)
