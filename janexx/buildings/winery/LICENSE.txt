@@ -1,0 +1,12 @@
+
+This work is published under the terms of the
+Creative Commons Attribution Sharealike 3.0 Unported License (see CC).
+For more information visit http://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+This file includes textures and models by:
+
+
+Crack.com CC0 - http://opengameart.org/content/stone-brick-wall-golgotha-stone1512jpg
+rubberduck CC0 - http://opengameart.org/node/20102
+yughues CC0 - http://opengameart.org/content/wood-barrels-pack
+unknownscribe CC-BY-SA 3.0 https://github.com/unknown-horizons/gfx/tree/master/unknownscribe/buildings/barracks/resources/ground Tex.png
