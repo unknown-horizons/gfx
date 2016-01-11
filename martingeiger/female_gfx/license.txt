@@ -1,0 +1,5 @@
+Term of use:
+The low-poly model, texture and animation is all created 
+by me, Martin Geiger, 2016, in Berlin with „Blender“ and „GIMP“. 
+And is free to use for everybody who is involved in 
+the open source development of “Unknown Horizons“.
