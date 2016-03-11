@@ -10,3 +10,6 @@ Crack.com CC0 - http://opengameart.org/content/stone-brick-wall-golgotha-stone15
 West CC0 -http://opengameart.org/node/8051 (wood floor)
 West CC0 - http://opengameart.org/node/8016 (stone pavement)
 Luke.RUSTLTD CC0 http://opengameart.org/node/8718 (wood)
+unknownscribe CC-BY-SA 3.0 https://github.com/unknown-horizons/gfx/tree/master/unknownscribe (dirt)
+
+
