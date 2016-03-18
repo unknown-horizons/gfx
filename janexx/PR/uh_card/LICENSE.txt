@@ -1,0 +1,12 @@
+This uh_card.pdf and the source file (made with scribus) can be used for printing cards. They can be given to people who are interested in UH as reminder.
+
+Except the UH logo, the fife logo and the textures for the paper background is this work created by myself, Jana Weigel. The logo and the textures are taken from the "old_source" folder (author unknown).
+
+https://github.com/unknown-horizons/unknown-horizons/tree/master/content/gui/images/logos
+https://github.com/unknown-horizons/gfx/tree/master/old_source/openanno
+
+All work in this folder is published under the terms of the
+Creative Commons Attribution Sharealike 3.0 Unported License (see CC).
+For more information visit http://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+
