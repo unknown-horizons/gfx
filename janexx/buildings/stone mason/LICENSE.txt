@@ -1,0 +1,14 @@
+
+This work is published under the terms of the
+Creative Commons Attribution Sharealike 3.0 Unported License (see CC).
+For more information visit http://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+This file includes textures and models by:
+
+
+textures by kaschte - CC-BY-SA 3.0 - GPL3 
+https://github.com/unknown-horizons/gfx/tree/master/kaschte/textures
+
+
+
+
