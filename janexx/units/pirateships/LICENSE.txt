@@ -1,0 +1,12 @@
+
+This work is published under the terms of the
+Creative Commons Attribution Sharealike 3.0 Unported License (see CC).
+For more information visit http://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+This file includes textures and models by:
+
+
+dauerflucher  https://github.com/unknown-horizons/gfx/blob/master/dauerflucher/units/uh_sloop_pirate-BLENDER_v249.blend (original pirateship)
+
+Clue  https://openclipart.org/detail/3710/calico-jack-pirate-logo
+(pirate logo) CC0
