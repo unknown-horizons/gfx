@@ -1,0 +1,15 @@
+
+This work is published under the terms of the
+Creative Commons Attribution Sharealike 3.0 Unported License (see CC).
+For more information visit http://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+This file includes textures and models by:
+
+
+original mainsquare of kaschte https://github.com/unknown-horizons/gfx/blob/master/kaschte/buildings/uh_sailor_main_square-BLENDER_v248.blend
+
+textures of egore
+https://github.com/unknown-horizons/gfx/tree/master/egore
+
+
+
