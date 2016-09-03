@@ -1,0 +1,12 @@
+
+This work is published under the terms of the
+Creative Commons Attribution Sharealike 3.0 Unported License (see CC).
+For more information visit http://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+This file includes textures and models by:
+
+
+Crack.com CC0 - http://opengameart.org/content/stone-brick-wall-golgotha-stone1512jpg
+West CC0 - http://opengameart.org/node/8016 (stone pavement)
+kaschte - https://github.com/unknown-horizons/gfx/blob/master/kaschte/buildings/uh_settler_house_01-BLENDER-v257.blend
+(parts of settler house 01)
