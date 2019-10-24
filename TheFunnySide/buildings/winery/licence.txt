@@ -1,0 +1,22 @@
+Composing, modelling and renders by TheFunnySide under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+
+This render uses textures and models by:
+
+Original Winery from winery.blend by Janexx under http://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+bench by Sergey  from https://sketchfab.com/3d-models/high-bench-2-915755ee3d6b432191a2532b16184768 under https://creativecommons.org/licenses/by/4.0/
+pushcart by ToxaGrom from https://sketchfab.com/3d-models/pushcart-c5e766515dc54e4c966f2286ef78aca3 under https://creativecommons.org/licenses/by/4.0/ 
+gate by Francesco Coldesina  from https://sketchfab.com/3d-models/gate-246e2edca1c84952b776c5aaa6cfa6f7 under https://creativecommons.org/licenses/by/4.0/
+fruit_basket by toomanydemons from  https://sketchfab.com/3d-models/fruit-baskets-39f6c2fecc2e4cefbc3aef4bdcc4a62c under https://creativecommons.org/licenses/by/4.0/
+Wooden cart by JurianChibo from https://sketchfab.com/3d-models/wooden-cart-c7562b9fc670405993083c66e2657402 under https://creativecommons.org/licenses/by/4.0/
+
+Crack.com CC0 - http://opengameart.org/content/stone-brick-wall-golgotha-stone1512jpg
+rubberduck CC0 - http://opengameart.org/node/20102
+yughues CC0 - http://opengameart.org/content/wood-barrels-pack
+unknownscribe CC-BY-SA 3.0 https://github.com/unknown-horizons/gfx/tree/master/unknownscribe/buildings/barracks/resources/ground Tex.png
+
+--------------Textures Press--------------------
+Metal_dented_001 from https://3dtextures.me/ under CC0
+Wood_013_SD from https://3dtextures.me/ under CC0
+Wood_plancks_004 from https://3dtextures.me/ under CC0
+4K-Rust_1 from https://www.sharetextures.com/textures/metal/rust-1/ under CC0
