@@ -1,0 +1,4 @@
+Just the animation data without the trees:
+imagerelfilepath;rows;columns;spritewidth;spriteheight
+Mountains/Mine5x5/Mine5x5_work.png;4;12;320;320
+Resources/Fish/Fish_idle.png;4;20;128;128
