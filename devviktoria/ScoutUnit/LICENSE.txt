@@ -1,0 +1,31 @@
+License for the scout unit itself:
+This work is published under the terms of the
+Creative Commons Attribution Sharealike 3.0 Unported License (see CC).
+For more information visit http://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+License for the textures:
+Fabric034ACG from ambientCG.com,
+licensed under the Creative Commons CC0 1.0 Universal License.
+https://ambientcg.com/view?id=Fabric034
+
+Fabric060ACG from ambientCG.com,
+licensed under the Creative Commons CC0 1.0 Universal License.
+https://ambientcg.com/view?id=Fabric034
+
+fabric_leather_01PH from Poly Haven
+licensed as CC0
+https://polyhaven.com/a/fabric_leather_01
+
+Leather027ACG from ambientCG.com,
+licensed under the Creative Commons CC0 1.0 Universal License.
+https://ambientcg.com/view?id=Leather027
+
+Metal046AACG from ambientCG.com,
+licensed under the Creative Commons CC0 1.0 Universal License.
+https://ambientcg.com/view?id=Metal046A
+
+Licence for the MPFB assets:
+System assets: shared under CC0
+suits02: Mesh assets shared under CC0
+gloves01: Mesh assets shared under CC0
+
