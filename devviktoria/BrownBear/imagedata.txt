@@ -1,0 +1,3 @@
+imagerelfilepath;rows;columns;spritewidth;spriteheight
+Brownbear_move;8;47;48;48
+Brownbear_idle;8;24;48;48

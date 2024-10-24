@@ -1,0 +1,3 @@
+imagerelfilepath;rows;columns;spritewidth;spriteheight
+Scout_idle;8;33;48;48
+Scout_move;8;33;48;48
