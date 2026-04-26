@@ -1,0 +1,14 @@
+
+This work by Jana Weigel is published under the terms of the Attribution-ShareAlike 4.0 International (see CC).
+For more information visit https://creativecommons.org/licenses/by-sa/4.0/
+
+This file includes textures and models by:
+
+
+Model: By 2iemniak https://blendswap.com/blend/3228 (Edits: Curved and thicker ropes, sails, texture)
+Wood texture created using Planks 005 from ambientCG.com, https://ambientcg.com/a/Planks005 
+licensed under the Creative Commons CC0 1.0 Universal License 
+
+
+
+
